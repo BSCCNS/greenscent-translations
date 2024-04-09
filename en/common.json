@@ -404,5 +404,11 @@
   "disagree-cookies": "REJECT",
   "cookies-message": "By using this website, you consent to the use of cookies, including those from Google Analytics, to enhance your browsing experience and provide us with insights into website traffic.",
   "true-label": "TRUE",
-  "false-label": "FALSE"
+  "false-label": "FALSE",
+  "legend-part-1": "GOOD",
+  "legend-part-2": "MODERATE",
+  "legend-part-3": "DEFICIENT",
+  "legend-part-4": "BAD",
+  "legend-part-5": "VERY BAD",
+  "legend-part-5": "DEADLY"
 }
