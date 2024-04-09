@@ -402,5 +402,7 @@
   "focus-surface-warn-msg": "Find a flat surface to view the element",
   "agree-cookies": "OK",
   "disagree-cookies": "REJECT",
-  "cookies-message": "By using this website, you consent to the use of cookies, including those from Google Analytics, to enhance your browsing experience and provide us with insights into website traffic."
+  "cookies-message": "By using this website, you consent to the use of cookies, including those from Google Analytics, to enhance your browsing experience and provide us with insights into website traffic.",
+  "true-label": "TRUE",
+  "false-label": "FALSE"
 }
