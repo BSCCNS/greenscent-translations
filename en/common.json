@@ -51,7 +51,7 @@
   "lesson7-intro-alt": "Bird with the colours of the AQI instead of its regular colours",
   "lesson8-intro-alt": "Pair of scales with circles representing particles in both sides",
   "lesson9-intro-alt": "Lungs with circles and figures around it representing particles",
-  "lesson10-intro-alt": "Girl in bycicle in the city",
+  "lesson10-intro-alt": "Girl in bicycle in the city",
   "lesson11-intro-alt": "Public bus driving in the city",
 
 
@@ -349,35 +349,35 @@
   "help-discoverdropdown-4-desc":"As the app has an educational purpose, all content is available in this version, and no further updates are expected.",
   "help-discoverdropdown-5-desc":"You can get in touch with us using the button below.",
 
-  "resources-section1-text": "To expand your knowledge on air quality, we've curated additional resources designed to further enrich your learning experience",
+  "resources-section1-text": "To expand your knowledge on air quality, we have curated additional resources designed to further enrich your learning experience.",
   
   "resources-card-1-title": "GreenAIR tutorial",
   "resources-card-1-description": "Learn more about how the GreenAir app works",
   "resources-card-1-alt": "",
   "resources-card-1-type": "INFOGRAPHIC",
 
-  "resources-card-2-title": "Air quality and our health",
-  "resources-card-2-description": "Learn about how air quality affects your health",
+  "resources-card-2-title": "Air quality",
+  "resources-card-2-description": "What is the composition of the air we breathe?",
   "resources-card-2-alt": "",
   "resources-card-2-type": "INFOGRAPHIC",
 
   "resources-card-3-title": "Air quality index (AQI)",
-  "resources-card-3-description": "",
+  "resources-card-3-description": "How is air quality measured?",
   "resources-card-3-alt": "",
   "resources-card-3-type": "INFOGRAPHIC",
 
   "resources-card-4-title": "Main air pollutants",
-  "resources-card-4-description": "",
+  "resources-card-4-description": "Which are the most common air pollutants?",
   "resources-card-4-alt": "",
   "resources-card-4-type": "INFOGRAPHIC",
 
   "resources-card-5-title": "Main sources of air pollution",
-  "resources-card-5-description": "",
+  "resources-card-5-description": "Where do air pollutants come from?",
   "resources-card-5-alt": "",
   "resources-card-5-type": "INFOGRAPHIC",
 
   "resources-card-6-title": "Actions against air pollution",
-  "resources-card-6-description": "",
+  "resources-card-6-description": "How can we reduce air pollution and protect ourselves?",
   "resources-card-6-alt": "",
   "resources-card-6-type": "INFOGRAPHIC",
 
@@ -389,7 +389,7 @@
   
   "accessibility-section-title": "GreenAIR",
   "accessibility-text-1": "<p>We believe in creating inclusive experiences for all users. This Accessibility Guide is designed to help you make the most of our application and the immersive AR air quality game while utilizing accessibility features on your mobile device. Whether you rely on screen readers, need visual adjustments, or seek tactile enhancements, we've compiled simple instructions to ensure everyone can enjoy our content seamlessly. Explore the steps below to tailor your experience and let us know if there's anything more we can do to enhance accessibility for you.</p>",
-  "accessibility-text-2": "<h4>1. Open Accessibility Settings:</h4><ul><li>iOS (iPhone):</li><li2>Go to 'Settings.'</li2><li2>Select 'Accessibility.'</li2><li>Android:</li><li2>Navigate to 'Settings.'</li2><li2>Choose 'Accessibility.'</li2></ul>",
+  "accessibility-text-2": "<h4>1. Open Accessibility Settings:</h4><ul><li>iOS (iPhone):</li><li2>Go to 'Settings'.</li2><li2>Select 'Accessibility'.</li2><li>Android:</li><li2>Navigate to 'Settings'.</li2><li2>Choose 'Accessibility'.</li2></ul>",
   "accessibility-text-3": "<h4>2. Enable Accessibility Features:</h4><ul><li>Depending on the needs of the user, enable relevant features such as:</li><li2>VoiceOver (Screen Reader):</li2><li3>iOS: Settings > Accessibility > VoiceOver.</li3><li3>Android: Settings > Accessibility > TalkBack.</li3><li2>Magnification Gestures:</li2><li3>iOS: Settings > Accessibility > Magnifier.</li3><li3>Android: Settings > Accessibility > Magnification gestures.</li3><li2>Subtitles & Captioning:</li2><li3>iOS: Settings > Accessibility > Subtitles & Captioning.</li3><li3>Android: Settings > Accessibility > Hearing > Subtitles.</li3></ul>",
   "accessibility-text-4": "<h4>3. Adjust Display Settings:</h4><ul><li>Make adjustments for visibility:</li><li2>Text Size:</li2><li3>iOS: Settings > Display & Brightness > Text Size.</li3><li3>Android: Settings > Accessibility > Font Size.</li3><li2>Color Inversion:</li2><li3>iOS: Settings > Accessibility > Display & Text Size > Smart Invert.</li3></ul>",
 
@@ -410,5 +410,5 @@
   "legend-part-3": "DEFICIENT",
   "legend-part-4": "BAD",
   "legend-part-5": "VERY BAD",
-  "legend-part-6": "DEADLY"
+  "legend-part-6": "HAZARDOUS"
 }
