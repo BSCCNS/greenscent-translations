@@ -117,179 +117,178 @@
   "lesson7-discovercarousel-slide2": "Κάντε κλικ στο κουμπί "AR" κάτω δεξιά στην οθόνη σας για να προβάλετε τον χάρτη στο δωμάτιο στο οποίο βρίσκεστε και κάντε κλικ στο "Εμφάνιση πρόκλησης" στο επάνω μέρος για να απαντήσετε στις ερωτήσεις πρόκλησης.",
   "lesson7-discovercarousel-slide3": "Τα δεδομένα που εμφανίζονται είναι πραγματικές έξοδοι του συστήματος μοντελοποίησης CALIOPE που έχει αναπτυχθεί από το Κέντρο Υπερυπολογιστών της Βαρκελώνης (διαβάστε περισσότερα στην ενότητα «Σχετικά»).",
 
-  "lesson8-discovercarousel-slide1": "In the map, you can see that the air quality is at unhealthy levels at 10 am in busy roads due to early morning traffic. However, the air pollution drops across the city later in the day.",
-  "lesson8-discovercarousel-slide2": "Explore the map and respond to the challenge questions. At the bottom of the screen, select the time of day to view, and click on the “AR” button to view the map in the room you are in. Click on “Show Challenge” at the top to answer the challenge questions.",
-  "lesson8-discovercarousel-slide3": "The data shown are real outputs of the CALIOPE modelling system that is developed by the Barcelona Supercomputing Center (read more in the ‘About’ section).",
+  "lesson8-discovercarousel-slide1": "Στον χάρτη, μπορείτε να δείτε ότι η ποιότητα του αέρα είναι σε ανθυγιεινά επίπεδα στις 10 το πρωί σε πολυσύχναστους δρόμους λόγω της κυκλοφορίας νωρίς το πρωί. Ωστόσο, η ατμοσφαιρική ρύπανση μειώνεται σε όλη την πόλη αργότερα μέσα στην ημέρα.",
+  "lesson8-discovercarousel-slide2": "Εξερευνήστε τον χάρτη και απαντήστε στις ερωτήσεις πρόκλησης. Στο κάτω μέρος της οθόνης, επιλέξτε την ώρα της ημέρας για προβολή και κάντε κλικ στο κουμπί "AR" για να προβάλετε τον χάρτη στο δωμάτιο στο οποίο βρίσκεστε. Κάντε κλικ στο "Εμφάνιση πρόκλησης" στο επάνω μέρος για να απαντήσετε στις ερωτήσεις πρόκλησης.",
+  "lesson8-discovercarousel-slide3": "Τα δεδομένα που εμφανίζονται είναι πραγματικές έξοδοι του συστήματος μοντελοποίησης CALIOPE που έχει αναπτυχθεί από το Κέντρο Υπερυπολογιστών της Βαρκελώνης (διαβάστε περισσότερα στην ενότητα «Σχετικά»).",
   
 
-  "lesson9-discoverdropdown-1-title": "When we breathe, many particles enter our body",
-  "lesson9-discoverdropdown-2-title": "How long we are exposed to air pollution matters.",
-  "lesson9-discoverdropdown-3-title": "There are different effects on our health depending on exposure.",
-  "lesson9-discoverdropdown-4-title": "Air pollution affects each of us differently.",
+  "lesson9-discoverdropdown-1-title": "Όταν αναπνέουμε, πολλά σωματίδια εισέρχονται στο σώμα μας",
+  "lesson9-discoverdropdown-2-title": "Το πόσο καιρό είμαστε εκτεθειμένοι στην ατμοσφαιρική ρύπανση έχει σημασία.",
+  "lesson9-discoverdropdown-3-title": "Υπάρχουν διαφορετικές επιπτώσεις στην υγεία μας ανάλογα με την έκθεση μας στην ατμοσφαιρική ρύπανση.",
+  "lesson9-discoverdropdown-4-title": "Η ατμοσφαιρική ρύπανση επηρεάζει τον καθένα μας διαφορετικά.",
 
-  "lesson9-discoverdropdown-1-desc": "Larger particles generally come from natural sources and are easily stopped by our nose and throat. However, smaller particles (like particulate matter) can reach the lungs or even other organs, causing health problems.",
-  "lesson9-discoverdropdown-2-desc": "Exposure to air pollutants can be last for a short time, for example during a day with a lot of pollution, or for a long time (known as chronic), when living for years in a place with polluted air. Chronic exposure to air pollution is worse for our health.",
-  "lesson9-discoverdropdown-3-desc": "With short-term exposure, air pollutants can irritate our eyes, nose, throat and skin, and cause allergies, asthma attacks and respiratory infections. In the long term, they can affect our lung and heart function, causing strokes, heart diseases and lung problems.",
-  "lesson9-discoverdropdown-4-desc": "Both healthy people and those with pre-existing health conditions can suffer from health problems caused by air pollution. Young children, pregnant women and old people are generally more sensitive to air pollutants.", 
-
-
-  "lesson10-discovercarousel-slide1": "Walk, cycle or use public transport! Cars and other vehicle are one of the major sources of air pollution. Gasoline and diesel fuels produce air pollutants like nitrogen dioxide and carbon monoxide. Also, try to avoid streets and routes with low air quality.",
-  "lesson10-discovercarousel-slide2": "Take less flights! Planes contribute to air pollution and climate change. If you have to travel over long distances, you can use the train or bus.",
-  "lesson10-discovercarousel-slide3": "Producing and using electricity generates air pollution, unless it comes from renewable sources, like solar and wind. Turn off the lights when you leave a room, unplug devices when not using them and reduce energy consumption.",
-  "lesson10-discovercarousel-slide4": "Stay up to date with the air quality in your city! Check the AQI regularly: if the AQI is good, it means that it is a great day to enjoy some outdoor activities. On the contrary, if AQI is bad, it means that our health is at risk, so avoid outdoor activities.",
-
-  "lesson10-discovercarousel-slide1-img-alt": "Girl, dog, boy and bird in the boy's head all happy in the city",
-  "lesson10-discovercarousel-slide2-img-alt": "Mountain with an airplane with the prohibited icon",
-  "lesson10-discovercarousel-slide3-img-alt": "Huminized bird taking the plug out from electricity",
-  "lesson10-discovercarousel-slide4-img-alt": "Phone with the AQI icon inside",
-
-  "lesson11-discoverdropdown-1-title":"More trees, less cars!",
-  "lesson11-discoverdropdown-2-title":"More renewable energy!",
-  "lesson11-discoverdropdown-3-title":"More education!",
-
-  "lesson11-discoverdropdown-1-desc":"In cities, we can reduce the sources of air pollution (like cars) by creating more parks in urban areas and zones with restricted traffic, and improving public transportation. Letting nature back in will make urban environments healthier and more liveable.",
-  "lesson11-discoverdropdown-2-desc":"While consuming less energy can help, the energy used in homes, buildings and factories should come from renewable sources like solar and wind, to reduce air pollution from coal and gas power stations.",
-  "lesson11-discoverdropdown-3-desc":"By knowing more about air pollution, citizens are empowered and can make decisions to protect their health. Also, supporting communities with less resources is important to help reduce the health effects of air quality globally.",
+  "lesson9-discoverdropdown-1-desc": "Τα μεγαλύτερα σωματίδια προέρχονται γενικά από φυσικές πηγές και σταματούν εύκολα από τη μύτη και το λαιμό μας. Ωστόσο, μικρότερα σωματίδια (όπως τα σωματίδια) μπορούν να φτάσουν στους πνεύμονες ή ακόμα και σε άλλα όργανα, προκαλώντας προβλήματα υγείας.",
+  "lesson9-discoverdropdown-2-desc": "Η έκθεση σε ατμοσφαιρικούς ρύπους μπορεί να διαρκέσει για μικρό χρονικό διάστημα, για παράδειγμα κατά τη διάρκεια μιας ημέρας με πολλή ρύπανση ή για μεγάλο χρονικό διάστημα (γνωστό ως χρόνια), όταν ζείτε για χρόνια σε ένα μέρος με μολυσμένο αέρα. Η χρόνια έκθεση στην ατμοσφαιρική ρύπανση είναι χειρότερη για την υγεία μας.",
+  "lesson9-discoverdropdown-3-desc": "Με τη βραχυπρόθεσμη έκθεση, οι ατμοσφαιρικοί ρύποι μπορεί να ερεθίσουν τα μάτια, τη μύτη, το λαιμό και το δέρμα μας και να προκαλέσουν αλλεργίες, κρίσεις άσθματος και λοιμώξεις του αναπνευστικού. Μακροπρόθεσμα, μπορούν να επηρεάσουν τη λειτουργία των πνευμόνων και της καρδιάς μας, προκαλώντας εγκεφαλικά, καρδιακές παθήσεις και προβλήματα στους πνεύμονες.",
+  "lesson9-discoverdropdown-4-desc": "Τόσο τα υγιή άτομα όσο και τα άτομα με προϋπάρχουσες παθήσεις μπορεί να υποφέρουν από προβλήματα υγείας που προκαλούνται από την ατμοσφαιρική ρύπανση. Τα μικρά παιδιά, οι έγκυες γυναίκες και οι ηλικιωμένοι είναι γενικά πιο ευαίσθητα στους ατμοσφαιρικούς ρύπους.", 
 
 
+  "lesson10-discovercarousel-slide1": "Περπατήστε, πάρτε ποδήλατο ή χρησιμοποιήστε τα μέσα μαζικής μεταφοράς! Τα αυτοκίνητα και άλλα οχήματα είναι μία από τις κύριες πηγές ατμοσφαιρικής ρύπανσης. Η βενζίνη και το ντίζελ παράγουν ατμοσφαιρικούς ρύπους όπως το διοξείδιο του αζώτου και το μονοξείδιο του άνθρακα. Επίσης, προσπαθήστε να αποφύγετε δρόμους και διαδρομές με χαμηλή ποιότητα αέρα.",
+  "lesson10-discovercarousel-slide2": "Κάντε λιγότερες πτήσεις! Τα αεροπλάνα συμβάλλουν στην ατμοσφαιρική ρύπανση και στην κλιματική αλλαγή. Εάν πρέπει να ταξιδέψετε σε μεγάλες αποστάσεις, μπορείτε να χρησιμοποιήσετε το τρένο ή το λεωφορείο.",
+  "lesson10-discovercarousel-slide3": "Η παραγωγή και η χρήση ηλεκτρικής ενέργειας παράγει ατμοσφαιρική ρύπανση, εκτός εάν προέρχεται από ανανεώσιμες πηγές, όπως η ηλιακή ενέργεια και ο άνεμος. Σβήνετε τα φώτα όταν φεύγετε από ένα δωμάτιο, αποσυνδέετε συσκευές όταν δεν τις χρησιμοποιείτε και μειώνετε την κατανάλωση ενέργειας.",
+  "lesson10-discovercarousel-slide4": "Μείνετε ενημερωμένοι για την ποιότητα του αέρα στην πόλη σας! Ελέγχετε τακτικά τον Δείκτη Ποιότητας Αέρα (AQI): εάν ο δείκτης AQI είναι καλός, σημαίνει ότι είναι μια υπέροχη μέρα για να απολαύσετε κάποιες υπαίθριες δραστηριότητες. Αντίθετα, αν ο δείκτης AQI είναι κακός, σημαίνει ότι κινδυνεύει η υγεία μας, οπότε αποφύγετε τις υπαίθριες δραστηριότητες.",
 
-  "challenge1-title": "The air we breathe Challenge",
+  "lesson10-discovercarousel-slide1-img-alt": "Κορίτσι, σκύλος, αγόρι και πουλί στο κεφάλι του αγοριού όλα χαρούμενα στην πόλη",
+  "lesson10-discovercarousel-slide2-img-alt": "Βουνό με ένα αεροπλάνο με το σήμα 'απαγορεύεται'",
+  "lesson10-discovercarousel-slide3-img-alt": "Πουλί που μοιάζει με άνθρωπο και βγάζει την πρίζα από την ηλεκτρική ενέργεια",
+  "lesson10-discovercarousel-slide4-img-alt": "Τηλέφωνο με το εικονίδιο του Δείκτη Ποιότητας Αέρα (AQI) μέσα",
 
-  "lesson1-challenge-question1": "What is the air composed of?",
+  "lesson11-discoverdropdown-1-title":"Περισσότερα δέντρα, λιγότερα αυτοκίνητα!",
+  "lesson11-discoverdropdown-2-title":"Περισσότερες ανανεώσιμες πηγές ενέργειας!",
+  "lesson11-discoverdropdown-3-title":"Περισσότερη εκπαίδευση!",
 
-  "lesson1-challenge-question1-choice1": "Tiny particles called aerosols.",
-  "lesson1-challenge-question1-choice2": "Nitrogen, oxygen, other gases in smaller amounts, and particulate matter.",
-  "lesson1-challenge-question1-choice3": "Aerosols, dust, and pollutants.",
-
-  "lesson1-challenge-question2": "Which of the following are air pollutants?",
-
-  "lesson1-challenge-question2-choice1": "Nitrogen and oxygen.",
-  "lesson1-challenge-question2-choice2": "Smoke, dust, and pollen.",
-  "lesson1-challenge-question2-choice3": "Nitrogen, oxygen, and greenhouse gases.",
-
-  "lesson1-challenge-question3": "What increases the quantity of greenhouse gases in the atmosphere?",
-
-  "lesson1-challenge-question3-choice1": "Human activities.",
-  "lesson1-challenge-question3-choice2": "Greenhouse effect.",
-  "lesson1-challenge-question3-choice3": "Deserts.",
+  "lesson11-discoverdropdown-1-desc":"Στις πόλεις, μπορούμε να μειώσουμε τις πηγές ατμοσφαιρικής ρύπανσης (όπως τα αυτοκίνητα) δημιουργώντας περισσότερα πάρκα σε αστικές περιοχές και ζώνες με περιορισμένη κυκλοφορία και βελτιώνοντας τις δημόσιες συγκοινωνίες. Αν αφήσουμε τη φύση να αυξηθεί στις πόλεις, θα κάνει τα αστικά περιβάλλοντα πιο υγιή και πιο βιώσιμα.",
+  "lesson11-discoverdropdown-2-desc":"Ενώ η κατανάλωση λιγότερης ενέργειας μπορεί να βοηθήσει, η ενέργεια που χρησιμοποιείται σε σπίτια, κτίρια και εργοστάσια θα πρέπει να προέρχεται από ανανεώσιμες πηγές όπως ο ήλιος και ο άνεμος, για να μειωθεί η ατμοσφαιρική ρύπανση από σταθμούς παραγωγής ενέργειας με άνθρακα και φυσικό αέριο.",
+  "lesson11-discoverdropdown-3-desc":"Γνωρίζοντας περισσότερα για την ατμοσφαιρική ρύπανση, οι πολίτες αποκτούν κίνητρα και μπορούν να λάβουν αποφάσεις για την προστασία της υγείας τους. Επίσης, η υποστήριξη κοινοτήτων με λιγότερους πόρους είναι σημαντική για τη μείωση των επιπτώσεων της ποιότητας του αέρα στην υγεία παγκοσμίως.",
 
 
-  "challenge2-title": "Air pollution Challenge",
+  "challenge1-title": "Ο αέρας που αναπνέουμε Πρόκληση",
 
-  "lesson2-challenge-question1": "Why are air pollutants dangerous for our health?",
+  "lesson1-challenge-question1": "Από τι αποτελείται ο αέρας;",
 
-  "lesson2-challenge-question1-choice1": "Because they cause respiratory and cardiovascular diseases.",
-  "lesson2-challenge-question1-choice2": "Because they reduce the visibility in cities.",
-  "lesson2-challenge-question1-choice3": "Because they modify the weather and the seasons.",
+  "lesson1-challenge-question1-choice1": "Μικροσκοπικά σωματίδια που ονομάζονται αερολύματα.",
+  "lesson1-challenge-question1-choice2": "Άζωτο, οξυγόνο, άλλα αέρια σε μικρότερες ποσότητες και σωματίδια.",
+  "lesson1-challenge-question1-choice3": "Αερολύματα, σκόνη και ρύπους.",
 
-  "lesson2-challenge-question2": "How does air pollution affect the environment?",
+  "lesson1-challenge-question2": "Ποιοι από τους παρακάτω είναι ατμοσφαιρικοί ρύποι;",
 
-  "lesson2-challenge-question2-choice1": "Pollutants increase vegetation growth.",
-  "lesson2-challenge-question2-choice2": "Pollutants increase the clarity of a landscape.",
-  "lesson2-challenge-question2-choice3": "Pollutants increase the acidity of land and water.",
+  "lesson1-challenge-question2-choice1": "Άζωτο και οξυγόνο.",
+  "lesson1-challenge-question2-choice2": "Καπνός, σκόνη και γύρη.",
+  "lesson1-challenge-question2-choice3": "Άζωτο, οξυγόνο και αέρια θερμοκηπίου.",
 
-  "lesson2-challenge-question3": "Which of the following is incorrect?",
+  "lesson1-challenge-question3": "Τι αυξάνει την ποσότητα των αερίων του θερμοκηπίου στην ατμόσφαιρα;",
 
-  "lesson2-challenge-question3-choice1": "Air pollutants affect our health.",
-  "lesson2-challenge-question3-choice2": "Air pollutants don’t affect animals, only humans.",
-  "lesson2-challenge-question3-choice3": "Air pollutants worsen the quality of the air we breathe.",
+  "lesson1-challenge-question3-choice1": "Ανθρώπινες δραστηριότητες.",
+  "lesson1-challenge-question3-choice2": "Το φαινόμενο του θερμοκηπίου.",
+  "lesson1-challenge-question3-choice3": "Ερήμους.",
+
+
+  "challenge2-title": "Πρόκληση ατμοσφαιρικής ρύπανσης",
+
+  "lesson2-challenge-question1": "Γιατί οι ατμοσφαιρικοί ρύποι είναι επικίνδυνοι για την υγεία μας;",
+
+  "lesson2-challenge-question1-choice1": "Γιατί προκαλούν αναπνευστικά και καρδιαγγειακά νοσήματα.",
+  "lesson2-challenge-question1-choice2": "Γιατί μειώνουν την ορατότητα στις πόλεις.",
+  "lesson2-challenge-question1-choice3": "Γιατί τροποποιούν τον καιρό και τις εποχές.",
+
+  "lesson2-challenge-question2": "Πώς η ατμοσφαιρική ρύπανση επηρεάζει το περιβάλλον;",
+
+  "lesson2-challenge-question2-choice1": "Οι ρύποι αυξάνουν την ανάπτυξη της βλάστησης.",
+  "lesson2-challenge-question2-choice2": "Οι ρύποι αυξάνουν τη διαύγεια ενός τοπίου.",
+  "lesson2-challenge-question2-choice3": "Οι ρύποι αυξάνουν την οξύτητα του εδάφους και του νερού.",
+
+  "lesson2-challenge-question3": "Ποιο από τα παρακάτω είναι λάθος;",
+
+  "lesson2-challenge-question3-choice1": "Οι ατμοσφαιρικοί ρύποι επηρεάζουν την υγεία μας.",
+  "lesson2-challenge-question3-choice2": "Οι ατμοσφαιρικοί ρύποι δεν επηρεάζουν τα ζώα, μόνο τους ανθρώπους.",
+  "lesson2-challenge-question3-choice3": "Οι ατμοσφαιρικοί ρύποι επιδεινώνουν την ποιότητα του αέρα που αναπνέουμε.",
  
-  "challenge3-title": "What we can’t see Challenge",
+  "challenge3-title": "Αυτό που δεν μπορούμε να δούμε",
 
-  "lesson3-challenge-question1": "When a day is clear, the air quality is always good.",
-  "lesson3-challenge-question2": "Most pollutants in the air are too small to be seen with our eyes.",
-  "lesson3-challenge-question3": "Air pollution is an invisible threat to our health.",
+  "lesson3-challenge-question1": "Όταν η ατμόσφαιρα και ο ουρανός είναι καθαρά, η ποιότητα του αέρα είναι πάντα καλή.",
+  "lesson3-challenge-question2": "Οι περισσότεροι ρύποι στον αέρα είναι πολύ μικροί για να τους δούμε με γυμνό μάτι.",
+  "lesson3-challenge-question3": "Η ατμοσφαιρική ρύπανση είναι μια αόρατη απειλή για την υγεία μας.",
 
-  "challenge4-title": "A matter of habits Challenge",
+  "challenge4-title": "Θέμα συνηθειών Πρόκληση",
 
-  "lesson4-challenge-question1": "Most air pollutants are found in cities, because of traffic and other human activities.",
-  "lesson4-challenge-question2": "Cigarette smoke is the most important air pollution source.",
-  "lesson4-challenge-question3": "Volcanoes and wildfires are natural sources of air pollutants.",
+  "lesson4-challenge-question1": "Οι περισσότεροι ατμοσφαιρικοί ρύποι βρίσκονται στις πόλεις, λόγω της κυκλοφορίας και άλλων ανθρώπινων δραστηριοτήτων.",
+  "lesson4-challenge-question2": "Ο καπνός του τσιγάρου είναι η πιο σημαντική πηγή ατμοσφαιρικής ρύπανσης.",
+  "lesson4-challenge-question3": "Τα ηφαίστεια και οι πυρκαγιές είναι φυσικές πηγές ατμοσφαιρικών ρύπων.",
 
-  "challenge5-title": "Air pollution has no boundaries",
+  "challenge5-title": "Η ατμοσφαιρική ρύπανση δεν έχει σύνορα",
 
-  "lesson5-challenge-question1": "The wind, rain, and air patterns are the main natural sources of air pollution in Europe.",
-  "lesson5-challenge-question2": "Desert dust is the main natural source of air pollution in Europe.",
-  "lesson5-challenge-question3": "Saharan dust travels across Europe and the Atlantic ocean following wind patterns.",
+  "lesson5-challenge-question1": "Ο άνεμος, η βροχή και τα μοτίβα του αέρα είναι οι κύριες φυσικές πηγές ατμοσφαιρικής ρύπανσης στην Ευρώπη.",
+  "lesson5-challenge-question2": "Η σκόνη της ερήμου είναι η κύρια φυσική πηγή ατμοσφαιρικής ρύπανσης στην Ευρώπη.",
+  "lesson5-challenge-question3": "Η σκόνη της Σαχάρας ταξιδεύει σε όλη την Ευρώπη και τον Ατλαντικό ωκεανό ακολουθώντας τα μονοπάτια του ανέμου.",
   
-  "challenge6-title": "The Air Quality Index Challenge",
+  "challenge6-title": "Η πρόκληση του Δείκτη Ποιότητας Αέρα (AQI)",
 
-  "lesson6-challenge-question1": "What does the Air Quality Index (AQI) show?",
+  "lesson6-challenge-question1": "Τι δείχνει ο Δείκτης Ποιότητας Αέρα (AQI);",
 
-  "lesson6-challenge-question1-choice1": "How clean the air is.",
-  "lesson6-challenge-question1-choice2": "How good the visibility is.",
-  "lesson6-challenge-question1-choice3": "How the weather is.",
+  "lesson6-challenge-question1-choice1": "Πόσο καθαρός είναι ο αέρας.",
+  "lesson6-challenge-question1-choice2": "Πόσο καλή είναι η ορατότητα.",
+  "lesson6-challenge-question1-choice3": "Πώς είναι ο καιρός.",
 
-  "lesson6-challenge-question2": "Which of the following is not correct?",
+  "lesson6-challenge-question2": "Ποιο από τα παρακάτω δεν είναι σωστό;",
 
-  "lesson6-challenge-question2-choice1": "When the air quality is good, the AQI is low.",
-  "lesson6-challenge-question2-choice2": "When the air quality is bad, it appears green on the map.",
-  "lesson6-challenge-question2-choice3": "When there are pollutants in the air, the AQI is high and air quality is poor.",
+  "lesson6-challenge-question2-choice1": "Όταν η ποιότητα του αέρα είναι καλή, τον Δείκτη Ποιότητας Αέρα (AQI) είναι χαμηλό.",
+  "lesson6-challenge-question2-choice2": "Όταν η ποιότητα του αέρα είναι κακή, εμφανίζεται πράσινο στον χάρτη.",
+  "lesson6-challenge-question2-choice3": "Όταν υπάρχουν ρύποι στον αέρα, τον Δείκτη Ποιότητας Αέρα (AQI) είναι υψηλό και η ποιότητα του αέρα κακή.",
 
-  "lesson6-challenge-question3": "How is the AQI useful for citizens?",
+  "lesson6-challenge-question3": "Πώς είναι χρήσιμος ο Δείκτης Ποιότητας Αέρα (AQI) για τους πολίτες;",
 
-  "lesson6-challenge-question3-choice1": "It can help them take measures to protect their health when the air quality is bad.",
-  "lesson6-challenge-question3-choice2": "It can help them plan their vacation.",
-  "lesson6-challenge-question3-choice3": "It shows them what the temperature will be on that day.",
+  "lesson6-challenge-question3-choice1": "Μπορεί να τους βοηθήσει να λάβουν μέτρα για την προστασία της υγείας τους όταν η ποιότητα του αέρα είναι κακή.",
+  "lesson6-challenge-question3-choice2": "Μπορεί να τους βοηθήσει να προγραμματίσουν τις διακοπές τους.",
+  "lesson6-challenge-question3-choice3": "Τους δείχνει ποια θα είναι η θερμοκρασία εκείνη την ημέρα.",
 
-  "challenge7-title": "The colours of air quality Challenge",
+  "challenge7-title": "Τα χρώματα της ποιότητας του αέρα Πρόκληση",
 
- "lesson7-challenge-question1": "According to the map, the air quality was poor in many major cities, like Milan, Barcelona and Paris, during autumn 2016.",
- "lesson7-challenge-question2": "The air quality is at unhealthy levels in all of northern and western Europe, like the UK and Finland, so it is best to limit outdoor activities.",
- "lesson7-challenge-question3": "Northern Italy and some parts of eastern Europe, like Poland and Serbia, have the poorest air quality in Europe.",
+ "lesson7-challenge-question1": "Σύμφωνα με τον χάρτη, η ποιότητα του αέρα ήταν κακή σε πολλές μεγάλες πόλεις, όπως το Μιλάνο, η Βαρκελώνη και το Παρίσι, το φθινόπωρο του 2016.",
+ "lesson7-challenge-question2": "Η ποιότητα του αέρα είναι σε ανθυγιεινά επίπεδα σε όλη τη βόρεια και δυτική Ευρώπη, όπως το Ηνωμένο Βασίλειο και τη Φινλανδία, επομένως είναι καλύτερο να περιοριστούν οι υπαίθριες δραστηριότητες.",
+ "lesson7-challenge-question3": "Η Βόρεια Ιταλία και ορισμένες περιοχές της ανατολικής Ευρώπης, όπως η Πολωνία και η Σερβία, έχουν τη χειρότερη ποιότητα αέρα στην Ευρώπη.",
 
-  "challenge8-title": "Comparing air quality Challenge",
+  "challenge8-title": "Πρόκληση σύγκρισης ποιότητας αέρα",
 
- "lesson8-challenge-question1": "The air quality is better in the afternoon, when there is less road traffic than in the morning.",
- "lesson8-challenge-question2": "It is better to exercise outdoors in the morning, as air quality is better.",
- "lesson8-challenge-question3": "Busy roads should be avoided in the morning, because of poor air quality.",
+ "lesson8-challenge-question1": "Η ποιότητα του αέρα είναι καλύτερη το απόγευμα, όταν υπάρχει λιγότερη οδική κίνηση από το πρωί.",
+ "lesson8-challenge-question2": "Είναι προτιμότερο να ασκείστε σε εξωτερικούς χώρους το πρωί, καθώς η ποιότητα του αέρα είναι καλύτερη.",
+ "lesson8-challenge-question3": "Οι πολυσύχναστοι δρόμοι θα πρέπει να αποφεύγονται το πρωί λόγω της κακής ποιότητας του αέρα.",
 
-  "challenge9-title": "A risk to our health Challenge",
+  "challenge9-title": "Κίνδυνος για την υγεία μας Πρόκληση",
 
-  "lesson9-challenge-question1": "Air pollution can cause lung and heart diseases.",
-  "lesson9-challenge-question2": "Pregnant women are at particular risk when breathing polluted air.",
-  "lesson9-challenge-question3": "Nature is the only source of air pollution.",
+  "lesson9-challenge-question1": "Η ατμοσφαιρική ρύπανση μπορεί να προκαλέσει παθήσεις των πνευμόνων και της καρδιάς.",
+  "lesson9-challenge-question2": "Οι έγκυες γυναίκες διατρέχουν ιδιαίτερο κίνδυνο όταν αναπνέουν μολυσμένο αέρα.",
+  "lesson9-challenge-question3": "Η φύση είναι η μόνη πηγή ατμοσφαιρικής ρύπανσης.",
 
-  "challenge10-title": "Actions we can take Challenge",
+  "challenge10-title": "Ενέργειες που μπορούμε να κάνουμε Πρόκληση",
 
-  "lesson10-challenge-question1": "Which of the sources below contributes the most to air pollution?",
+  "lesson10-challenge-question1": "Ποια από τις παρακάτω πηγές συμβάλλει περισσότερο στην ατμοσφαιρική ρύπανση;",
 
-  "lesson10-challenge-question1-choice1": "Sand storms.",
-  "lesson10-challenge-question1-choice2": "Cars and other vehicles",
-  "lesson10-challenge-question1-choice3": "Volcanic eruptions",
+  "lesson10-challenge-question1-choice1": "Αμμοθύελλες.",
+  "lesson10-challenge-question1-choice2": "Αυτοκίνητα και άλλα οχήματα.",
+  "lesson10-challenge-question1-choice3": "Ηφαιστειακές εκρήξεις.",
 
-  "lesson10-challenge-question2": "What can you do to drastically reduce air pollution?",
+  "lesson10-challenge-question2": "Τι μπορείτε να κάνετε για να μειώσετε δραστικά την ατμοσφαιρική ρύπανση;",
 
-  "lesson10-challenge-question2-choice1": "Avoid using cars: walk and cycle more instead.",
-  "lesson10-challenge-question2-choice2": "Always prefer flights, they pollute the least.",
-  "lesson10-challenge-question2-choice3": "Turn off the lights when you are not using them.",
+  "lesson10-challenge-question2-choice1": "Αποφύγετε τη χρήση αυτοκινήτων: αντ' αυτού περπατήστε και χρησιμοποιήστε το ποδήλατο περισσότερο.",
+  "lesson10-challenge-question2-choice2": "Προτιμάτε πάντα τις πτήσεις, ρυπαίνουν λιγότερο από άλλα μέσα μεταφοράς.",
+  "lesson10-challenge-question2-choice3": "Σβήνετε τα φώτα όταν δεν τα χρησιμοποιείτε.",
 
-  "lesson10-challenge-question3": "What can you do to protect yourself from air pollution?",
+  "lesson10-challenge-question3": "Τι μπορείτε να κάνετε για να προστατευθείτε από την ατμοσφαιρική ρύπανση;",
 
-  "lesson10-challenge-question3-choice1": "Check the AQI in your city and adapt your activities.",
-  "lesson10-challenge-question3-choice2": "Cycle everyday, even on days with poor air quality index.",
-  "lesson10-challenge-question3-choice3": "Use a car more often.",
+  "lesson10-challenge-question3-choice1": "Ελέγξτε τον Δείκτη Ποιότητας Αέρα (AQI) στην πόλη σας και προσαρμόστε τις δραστηριότητές σας.",
+  "lesson10-challenge-question3-choice2": "Κάντε ποδήλατο καθημερινά, ακόμη και τις ημέρες με κακό δείκτη ποιότητας αέρα.",
+  "lesson10-challenge-question3-choice3": "Χρησιμοποιείτε αυτοκίνητο πιο συχνά.",
 
- "challenge11-title": "Cleaner air for all Challenge",
+ "challenge11-title": "Καθαρότερος αέρας για όλες τις προκλήσεις",
 
- "lesson11-challenge-question1": "Creating more green spaces in urban areas reduces air pollution.",
- "lesson11-challenge-question2": "Energy production and use does not affect air quality.",
- "lesson11-challenge-question3": "Even small local actions can help protect the health of people worldwide.",
+ "lesson11-challenge-question1": "Η δημιουργία περισσότερων χώρων πρασίνου στις αστικές περιοχές μειώνει την ατμοσφαιρική ρύπανση.",
+ "lesson11-challenge-question2": "Η παραγωγή και η χρήση ενέργειας δεν επηρεάζει την ποιότητα του αέρα.",
+ "lesson11-challenge-question3": "Ακόμη και μικρές τοπικές ενέργειες μπορούν να βοηθήσουν στην προστασία της υγείας των ανθρώπων παγκοσμίως.",
 
   
 
-  "fail-result-description": "This is not the right answer, but don't worry! You can always try again, you can do it!",
-  "success-result-description": "That's right! You are an air quality champion!",
+  "fail-result-description": "Αυτή δεν είναι η σωστή απάντηση, αλλά μην ανησυχείτε! Μπορείτε πάντα να προσπαθήσετε ξανά, μπορείτε να τα καταφέρετε!",
+  "success-result-description": "Σωστά! Είστε πρωταθλητής στην ποιότητα του αέρα!",
 
-  "failed-challenge-button": "TRY AGAIN",
-  "successful-challenge-button": "CONTINUE",
+  "failed-challenge-button": "ΠΡΟΣΠΑΘΗΣΕ ΞΑΝΑ",
+  "successful-challenge-button": "ΣΥΝΕΧΕΙΑ",
 
-  "fail-result-title": "Not quite",
-  "success-result-title": "Great job!",
+  "fail-result-title": "ΟΧΙ ακριβως",
+  "success-result-title": "Καλή δουλειά!",
 
-  "quiz-retry-button": "TRY AGAIN",
-  "quiz-submit-button": "SUBMIT",
-  "quiz-next-button": "CONTINUE",
+  "quiz-retry-button": "ΥΠΟΒΟΛΗ",
+  "quiz-submit-button": "ΝΑ ΣΥΝΕΧΙΣΕΙ",
+  "quiz-next-button": "Αρχική Σελίδα",
 
   "home-button-label": "Home",
   "arexploration-button-label": "AR exploration",
