@@ -411,4 +411,11 @@
   "legend-part-4": "ΚΑΚΗ",
   "legend-part-5": "ΠΟΛΥ ΚΑΚΗ",
   "legend-part-6": "ΕΠΙΚΙΝΔΥΝΗ"
+
+   "en-label": "Αγγλικά",
+  "es-label": "Ισπανικά",
+  "ca-label": "Καταλανικά",
+  "gr-label": "Ελληνικά",
+  "fi-label": "Φινλανδικά",
+  "language-title": "Επιλογή γλώσσας"
 }
