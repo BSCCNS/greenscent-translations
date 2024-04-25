@@ -411,5 +411,12 @@
   "legend-part-3": "DEFICIENT",
   "legend-part-4": "BAD",
   "legend-part-5": "VERY BAD",
-  "legend-part-6": "HAZARDOUS"
+  "legend-part-6": "HAZARDOUS",
+
+  "en-label": "English",
+  "es-label": "Spanish",
+  "ca-label": "Catalan",
+  "gr-label": "Greek",
+  "fi-label": "Finnish",
+  "language-title": "Language selection"
 }
