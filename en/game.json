@@ -1,0 +1,36 @@
+{
+    "event-name-1":"Rush Hour",
+    "event-name-2":"???",
+
+    "tutorial-title":"Tutorial",
+    "tutorial-section-1":"1.- Swipe or click on the buttons to accept or reject the cards.",
+    "tutorial-section-2":"2.- Try to get the best ones, you can only pick as many as you see at the top right corner of the screen!",
+    "tutorial-section-3":"3.- Not all cards give you points, watch out!",
+    "tutorial-section-4":"4.- Prove you are a genious in air pollution!",
+    "tutorial-section-5":"Are you ready to start?",
+    "tutorial-button":"Start playing",
+    "tutorial-skip":"Skip tutorial",
+
+    "emissions-title":"Emissions Cards",
+
+    "defense-title":"Defense Cards",
+
+    "end-title":"GAME FINISHED",
+    "end-text-1":"You scored a total of ",
+    "end-text-2":" points!",
+    "end-button-success":"Next Event",
+    "end-button-fail":"Try Again",
+    "end-fail-text": "You did not succeed :(",
+
+    "endgame-title":"Victory!",
+    "endgame-text-1":"You have successfully completed all events! You're a champ!",
+    "endgame-text-2":"Want to play again?",
+    "endgame-button":"Play Again",
+
+    "card-1-text":"",
+    "card-2-text":"",
+    "card-3-text":"",
+    "card-4-text":"",
+    "card-5-text":"",
+    "card-6-text":""
+}
