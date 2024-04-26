@@ -1,1 +1,418 @@
-{}
+{
+  "discover-title": "Descobrir",
+  "challenge-title": "Desafiament",
+  "about-title": "Sobre",
+  "resources-title": "Recursos",
+  "accessibility-title": "Accessibilitat",
+  "start-lesson-button": "COMENÇAR LA LLIÇÓ",
+  "start-challenge-button": "COMENÇAR",
+  "discover-finished-button": "CONTINUAR",
+  "boolean-question-instructions": "Selecciona la resposta correcta i fes clic a enviar.",
+
+  "example": "exemple",
+
+  "resume-button-label": "Continuar",
+  "restart-button-label": "Reiniciar",
+  "quit-button-label": "Sortir",
+  "resources-button-label": "Recursos",
+
+  "lesson1-title": "L'aire que respirem",
+  "lesson2-title": "Contaminació de l'aire",
+  "lesson3-title": "El que no podem veure",
+  "lesson4-title": "Una qüestió d'hàbits",
+  "lesson5-title": "La contaminació de l'aire no té límits",
+  "lesson6-title": "L'índex de qualitat de l'aire",
+  "lesson7-title": "Els colors de la qualitat de l'aire",
+  "lesson8-title": "Comparativa de la qualitat de l'aire",
+  "lesson9-title": "Un risc per a la nostra salut",
+  "lesson10-title": "Accions que podem fer",
+  "lesson11-title": "Un aire més net per a tothom",
+ 
+
+  "lesson1-intro-text": "L'aire es compon, principalment, d'oxigen i nitrogen, així com d'altres gasos en menor quantitat, com ara òxids de nitrogen, compostos orgànics, ozó, diòxid de sofre i gasos d'efecte hivernacle. A l'aire també hi suren partícules diminutes, anomenades material particulat (en anglès, particulate matter or PM).",
+  "lesson2-intro-text": "La composició de l'aire canvia contínuament segons l'hora del dia, el temps, l'estació i l'elevació. Qualsevol partícula que modifiqui les característiques naturals de l'aire s'anomena contaminant. La contaminació atmosfèrica afecta els éssers humans, els animals i el medi ambient. Els cotxes, les cases, les fàbriques, les granges i altres fonts humanes o naturals poden alliberar contaminants a l'aire i empitjorar-ne la qualitat.",
+  "lesson3-intro-text": "Tot i que a vegades podem veure partícules que contaminen l'aire, com els fums negres dels tubs d'escapament, la majoria dels contaminants atmosfèrics són tan petits que no els podem veure a simple vista sinó només amb un microscopi. Fins i tot en un dia aparentment clar, la qualitat de l'aire pot ser dolenta, afectant la nostra salut i el medi ambient.",
+  "lesson4-intro-text": "Els nostres hàbits i activitats quotidianes afecten l'entorn on vivim. Per exemple, les fàbriques, els vehicles i el fum de les cigarretes alliberen partícules a l'aire que són molt perjudicials per a la nostra salut. Aquestes partícules s'anomenen contaminants d'origen humà (antròpics). A més de les activitats humanes, els contaminants atmosfèrics també poden provenir de fonts naturals, com les tempestes de pols i els desastres naturals.",
+  "lesson5-intro-text": "L'aire que ens envolta mai és estable. Fins i tot els dies sense vent, l'aire sempre es mou d'un lloc a un altre. De la mateixa manera, la contaminació atmosfèrica també està sempre en moviment. Els patrons de vent,la pluja i l'aire a l'atmosfera ajuden a moure la contaminació atmosfèrica arreu del món. Per tant, independentment d'on s'originen, els contaminants atmosfèrics emesos en un país poden viatjar i afectar la qualitat de l'aire a regions llunyanes.",
+  "lesson6-intro-text": "Els instruments terrestres i els satèl·lits que orbiten al voltant de la Terra analitzen de manera regular l'aire que respirem. També controlen la presència i la quantitat dels cinc principals contaminants atmosfèrics: material particulat, monòxid de carboni, ozó, diòxid de nitrogen i diòxid de sofre. L'índex de qualitat de l'aire (IQA) indica com de net o contaminat està l'aire.",
+  "lesson7-intro-text": "Els mapes que mostren l'índex de qualitat de l'aire (IQA) en diferents llocs ens indiquen com és de bona la qualitat de l'aire a cada ciutat o regió. En aquesta lliçó, explorarem un mapa de l'IQA mitjà a Europa durant la tardor del 2016.",
+  "lesson8-intro-text": "La qualitat de l'aire pot ser millor o pitjor a diferents carrers de la mateixa ciutat i pot canviar ràpidament segons l'hora del dia. Això depèn del trànsit i d'altres fonts de contaminants atmosfèrics (p. ex. zones industrials). En aquesta lliçó, explorem l'índex de qualitat de l'aire (IQA) a la ciutat de Barcelona, Espanya, en dos moments diferents del mateix dia. Al mapa, veuràs com canvia la qualitat de l'aire segons l'hora del dia i la part de la ciutat.",
+  "lesson9-intro-text": "La contaminació de l'aire és una de les principals causes de problemes de salut i morts al món. Alguns contaminants atmosfèrics estan presents al món natural, com la pols als deserts o les cendres a les zones volcàniques. Els humans, però, contribueixen dràsticament a la contaminació de l'aire amb els seus hàbits i activitats quotidianes.",
+  "lesson10-intro-text":"Les nostres activitats i hàbits són les principals fonts de contaminació atmosfèrica, i pocs contaminants provenen de la natura. A pesar que no tenim control sobre les tempestes de sorra o les erupcions volcàniques, canviar els nostres hàbits pot ajudar molt! Tant si vius a un poble petit com a una gran ciutat, hi ha algunes senzilles mesures que pots dur a terme per ajudar a reduir la contaminació.",
+  "lesson11-intro-text":"Les teves accions ecològiques, com ara caminar, anar en bicicleta i apagar els llums, ajuden a reduir la contaminació atmosfèrica. No obstant això, per millorar la qualitat de l'aire que respirem arreu del món, tots hem de treballar junts cap a accions ecològiques més grans. Les accions locals per reduir la contaminació de l'aire no només protegeixen la salut dels ciutadans d'una ciutat o d'un país concrets, sinó que també eviten la contaminació atomsfèrica i els seus efectes nocius en llocs llunyans.",
+
+
+  "lesson1-intro-alt": "Un ocell feliç amb núvols al seu voltant",
+  "lesson2-intro-alt": "Una lupa on es poden veure partícules contaminants",
+  "lesson3-intro-alt": "Un núvol",
+  "lesson4-intro-alt": "Conducció de cotxes per la ciutat",
+  "lesson5-intro-alt": "Un ocell dibuixant un cercle al seu voltant amb un llapis",
+  "lesson6-intro-alt": "Un gràfic amb els cinc colors diferents de l'IQA",
+  "lesson7-intro-alt": "Un ocell amb els colors de l'IQA en lloc dels seus colors habituals",
+  "lesson8-intro-alt": "Un parell d'escates amb cercles que representen partícules als dos costats",
+  "lesson9-intro-alt": "Un pulmons amb cercles i figures al seu voltant que representen partícules",
+  "lesson10-intro-alt": "Una noia en bicicleta a la ciutat",
+  "lesson11-intro-alt": "Conducció d'autobús públic a la ciutat",
+
+
+  "discovercarousel-instructions": "Explora la lliçó, llisca o fes clic a les fletxes per saber-ne més",
+  "discoverdropdowns-instructions": "Explora la lliçó, llisca o fes clic a les icones + per saber més sobre l'aire que respirem",
+  "discovermap-instructions": "Explora la lliçó i fes clic a la icona + per obtenir més informació sobre les fonts de contaminació de l'aire",
+
+  "lesson1-discovercarousel-slide1": "Les partícules minúscules que suren a l'aire es coneixen com a material particulat (PM, de l'anglès, o aerosols). S'alliberen d'activitats humanes (p. ex. dels cotxes) o de fonts naturals (p. ex. dels deserts). Aquestes partícules inclouen, entre d'altres, pols del desert, pol·len, gotes de líquid, sutge i fum (p. ex. de cigarretes o incendis forestals).",
+  "lesson1-discovercarousel-slide2": "Aquestes partícules són molt petites i no es poden veure a ull nu. Tenen diferents mides, i normalment s'anomenen PM2,5 o PM10, que significa que són partícules que tenen un diàmetre inferior a 2,5 o 10 micròmetres, respectivament.",
+  "lesson1-discovercarousel-slide3": "Els gasos d'efecte hivernacle, com el diòxid de carboni i el metà, es troben de manera natural a l'atmosfera. En un procés natural conegut com a efecte hivernacle, atrapen la calor del Sol reflectida per la Terra, mantenint el nostre planeta més càlid i un lloc còmode per viure-hi.",
+  "lesson1-discovercarousel-slide4": "La quantitat adequada de gasos d'efecte hivernacle a l'aire és essencial per a la nostra supervivència. Tanmateix, les activitats humanes, com l'ús de combustibles fòssils com el petroli i el carbó, estan augmentant dràsticament la quantitat de gasos d'efecte hivernacle, fent que la Terra s'escalfi més i més.",
+
+  "lesson1-discovercarousel-slide1-img-alt": "Una casa amb arbres i partícules flotant al seu voltant.",
+  "lesson1-discovercarousel-slide2-img-alt": "Lupa mirant partícules a l'aire.",
+  "lesson1-discovercarousel-slide3-img-alt": "El Sol irradiant calor a la Terra.",
+  "lesson1-discovercarousel-slide4-img-alt": "El planeta Terra trist i suant, amb un termòmetre.",
+
+  "lesson2-discovercarousel-slide1": "L'aire contaminat és perjudicial per a la nostra salut perquè provoca malalties respiratòries (com ara bronquitis crònica o asma) i altres afeccions greus (com per exemple, dificultats per respirar, problemes cardíacs, infarts, etc.).",
+  "lesson2-discovercarousel-slide2": "Quan l'aire està contaminat, el comportament dels animals també pot canviar. Per exemple, els ocells canten menys, les abelles abandonen els seus ruscs, els patrons de migració canvien i els animals tenen menys probabilitats de procrear.",
+  "lesson2-discovercarousel-slide3": "També es fa malbé el medi ambient. Els contaminants atmosfèrics poden augmentar l'acidesa de la terra i de l'aigua (acidificació), provocar una sobrecàrrega de nutrients a l'aigua que condueix a la proliferació d'algues i la reducció del creixement de la vegetació. La contaminació atmosfèrica també pot canviar els colors i la claredat dels paisatges.",
+  "lesson2-discovercarousel-slide4": "És important distingir els contaminants atmosfèrics tòxics per a la salut humana dels gasos d'efecte hivernacle, que atrapen la calor del sol i augmenten la temperatura del planeta, provocant l'escalfament global.",
+
+  "lesson2-discovercarousel-slide1-img-alt": "Dos pulmons humanitzats que expressen ràbia i decepció.",
+  "lesson2-discovercarousel-slide2-img-alt": "Un ocell se sent incòmode a causa de la contaminació de l'aire.",
+  "lesson2-discovercarousel-slide3-img-alt": "Una planta moribunda en una ciutat contaminada.",
+  "lesson2-discovercarousel-slide4-img-alt": "Uns pulmons insalubres vs el planeta Terra trist i suant amb un termòmetre.",
+
+  "lesson3-discovercarousel-slide1": "Fes una ullada a la sala. Hi ha moltes partícules a l'aire encara que no puguis veure-les! En aquesta lliçó pots explorar gràcies a la realitat augmentada com serien les partícules de l'aire si fossin visibles per l'ull humà.",
+  "lesson3-discovercarousel-slide2": "Fes clic al botó RA a la part inferior dreta de la pantalla per veure la sala i fes clic a "Mostrar el repte" a la part superior per respondre les preguntes del repte.",
+  
+  "discovermap-lesson4-tooltip1-h": "Fonts naturals",
+  "discovermap-lesson4-tooltip1-desc": "Les principals fonts de contaminació atmosfèrica són antropogèniques. Tot i això, els contaminants també poden procedir en menor quantitat d'incendis forestals o d'erupcions volcàniques, així com de tempestes de sorra i pols.",
+  "discovermap-lesson4-tooltip2-h": "Transport",
+  "discovermap-lesson4-tooltip2-desc": "La majoria dels contaminants atmosfèrics emesos a l'atmosfera provenen del trànsit rodat a causa de l'ús de vehicles de motor, com ara cotxes i autobusos. Els contaminants de l'aire també procedeixen de vaixells i avions.",
+  "discovermap-lesson4-tooltip3-h": "Agricultura",
+  "discovermap-lesson4-tooltip3-desc": "La contaminació de l'aire també prové de l'agricultura, on els tractors i els vehicles agrícolas emeten contaminants de combustió i la cura diària dels animals emet amoníac, un gas procedent dels camps molt fertilitzats i dels residus dels animals.",
+  "discovermap-lesson4-tooltip4-h": "Indústria i energia",
+  "discovermap-lesson4-tooltip4-desc": "Una altra gran font de contaminació atmosfèrica prové de les instal·lacions industrials (per exemple, fàbriques o obres de construcció) que cremen combustibles fòssils com ara carbó, petroli o gas natural per generar energia. En cremar-se, els combustibles fòssils alliberen contaminants a l'aire.",
+  "discovermap-lesson4-tooltip5-h": "Hàbits humans",
+  "discovermap-lesson4-tooltip5-desc": "Alguns dels nostres hàbits també emeten contaminants, com per exemple fumar cigarretes, encendre focs al pati del darrere o utilitzar graelles de carbó.",
+
+  "lesson5-discoverdropdown-1-title": "Normalment, les zones urbanes estan més contaminades que les zones rurals.",
+  "lesson5-discoverdropdown-2-title": "La pols del desert és una important font natural de contaminació de l'aire.",
+  "lesson5-discoverdropdown-3-title": "La pols del desert del Sàhara pot arribar a Europa.",
+  "lesson5-discoverdropdown-4-title": "La contaminació atmosférica no té fronteres.",
+
+  "lesson5-discoverdropdown-1-desc": "Tot i això, els contaminants atmosfèrics poden viatjar a llocs remots. Això significa que, encara que la teva comunitat local no produeixi gaires contaminants atmosfèrics, la teva salut es pot veure igualment perjudicada.",
+  "lesson5-discoverdropdown-2-desc": "Seguint els patrons del vent, la pols procedent del desert del Sàhara viatja a través d'Europa i de l'oceà Atlàntic, arribant finalment al Carib.",
+  "lesson5-discoverdropdown-3-desc": "El període més actiu per a la pols sahariana que viatja per Europa és la primavera. Quan es formen núvols de pols a l'aire, n'empitjoren la seva qualitat i poden causar malalties respiratòries i cardiovasculars.",
+  "lesson5-discoverdropdown-4-desc": "La difusió de la pols sahariana per regions llunyanes de la Terra és l'exemple perfecte que la contaminació no té fronteres. Per això, molts països estan unint esforços per protegir el medi ambient i la salut pública.", 
+
+  "lesson6-discovercarousel-slide1": "L'escala de l'IQA es divideix en cinc categories: bo (verd), moderat (groc), poc saludable per a grups sensibles (taronja), poc saludable (vermell) i extremadament insalubre (morat). La presència i la quantitat de contaminants de l'aire canvia durant el dia.",
+  "lesson6-discovercarousel-slide2": "Quan l'aire conté quantitats molt petites de contaminants, la seva qualitat és bona, de manera que l'IQA es mostra de color verd. Per contra, quan hi ha grans quantitats de contaminants a l'aire, la qualitat és molt dolenta i l'IQA es mostra d'un color morat.",
+  "lesson6-discovercarousel-slide3": "L'aire és majoritàriament net quan hi ha molt pocs contaminants: no hi ha risc quan respirem o fem activitats a l'aire lliure. Per contra, quan hi ha molts contaminants a l'aire, aquest no està net: la nostra salut corre perill i cal evitar les activitats a l'aire lliure.",
+  "lesson6-discovercarousel-slide4": "L'IQA és especialment útil per als ciutadans i els governs. Mitjançant l'IQA, podem conèixer l'estat de l'aire i el medi ambient. Els ciutadans i els governs poden llavors prendre mesures per protegir la seva salut.",
+
+  "lesson6-discovercarousel-slide1-img-alt": "Línies dels colors de l'IQA amb emoticones que passen de feliç a molt insalubre",
+  "lesson6-discovercarousel-slide2-img-alt": "Un cilindre amb partícules que va de menys, amb una emoticona amb una cara feliç, a molt ple, amb una emoticona molt poc saludable",
+  "lesson6-discovercarousel-slide3-img-alt": "Una lupa amb cercles que representen partícules",
+  "lesson6-discovercarousel-slide4-img-alt": "Un noia i un gos somrient amb la ciutat al darrere",
+
+  "lesson7-discovercarousel-slide1": "Explora el mapa i respon a les preguntes del repte. Pots veure com de bona era la qualitat de l'aire a cada regió en funció dels colors de l'IQA. Per exemple, veuràs que l'aire era més net a Espanya que al nord d'Itàlia a la tardor del 2016.",
+  "lesson7-discovercarousel-slide2": "Explora el mapa i respon les preguntes del repte. Pots veure com de bona era la qualitat de l'aire a cada regió en funció dels colors de l'IQA. Per exemple, veuràs que l'aire era més net a Espanya que al nord d'Itàlia a la tardor del 2016.",
+  "lesson7-discovercarousel-slide3": "Les dades que es mostre són sortides reals del sistema de modelització CALIOPE, desenvolupat al Barcelona Supercomputing Center (llegeix-ne més a l'apartat 'Sobre').",
+
+  "lesson8-discovercarousel-slide1": "Al mapa, pots veure que la qualitat de l'aire es troba a nivells insalubres a les 10 h en carreteres transitades a causa del trànsit de primera hora del matí. No obstant això, la contaminació de l'aire baixa a tota la ciutat més tard durant el dia.",
+  "lesson8-discovercarousel-slide2": "Explora el mapa i respon les preguntes del repte. A la part inferior de la pantalla, selecciona l'hora del dia que vols visualitzar i fes clic al botó "RA" per veure el mapa a la sala on estàs. Fes clic a "Mostrar el repte" a la part superior per respondre les preguntes del repte.",
+  "lesson8-discovercarousel-slide3": "Les dades mostrades són sortides reals del sistema de modelització CALIOPE que desenvolupa el Barcelona Supercomputing Center (llegiu-ne més a l'apartat 'Sobre').",
+  
+
+  "lesson9-discoverdropdown-1-title": "Quan respirem, entren moltes partícules al nostre cos.",
+  "lesson9-discoverdropdown-2-title": "El temps d'exposició a la contaminació atmosfèrica és important.",
+  "lesson9-discoverdropdown-3-title": "Hi ha diferents efectes sobre la nostra salut segons l'exposició.",
+  "lesson9-discoverdropdown-4-title": "La contaminació atmosfèrica ens afecta a cadascú de manera diferent.",
+
+  "lesson9-discoverdropdown-1-desc": "Les partícules més grans generalment provenen de fonts naturals i el nostre nas i la gola les detenen fàcilment. Tot i això, les més petites (com el material particulat) poden arribar als pulmons o fins i tot a altres òrgans, causant problemes de salut.",
+  "lesson9-discoverdropdown-2-desc": "L'exposició als contaminants de l'aire pot durar poc temps, per exemple durant un dia amb molta contaminació, o durant molt de temps, coneguda com a exposició crònica, quan es viu durant anys en un lloc on l'aire està contaminat. L'exposició crònica a la contaminació atmosfèrica és pitjor per a la nostra salut.",
+  "lesson9-discoverdropdown-3-desc": "Amb una exposició a curt termini, els contaminants de l'aire poden irritar els nostres ulls, nas, gola i pell, i provocar al·lèrgies, atacs d'asma i infeccions respiratòries. A llarg termini, poden afectar la nostra funció pulmonar i cardíaca, provocant ictus, malalties cardíaques i problemes pulmonars.",
+  "lesson9-discoverdropdown-4-desc": "Tant les persones sanes com les que pateixen malalties preexistents poden patir problemes de salut causats per la contaminació atmosfèrica. En general, els nens petits, les dones embarassades i la gent gran són més sensibles als contaminants atmosfèrics.", 
+
+
+  "lesson10-discovercarousel-slide1": "Camina, ves en bicicleta o en transport públic. Els cotxes i altres vehicles són una de les principals fonts de contaminació atmosfèrica. La gasolina i el gasoil produeixen contaminants atmosfèrics com el diòxid de nitrogen i el monòxid de carboni. A més, intenta evitar els carrers i les rutes amb baixa qualitat de l'aire.",
+  "lesson10-discovercarousel-slide2": "Agafa menys vols! Els avions contribueixen a la contaminació atmosfèrica i al canvi climàtic. Si ha de recórrer llargues distàncies, pots utilitzar el tren o l'autobús.",
+  "lesson10-discovercarousel-slide3": "Produir i utilitzar electricitat genera contaminació atmosfèrica, tret que provingui de fonts renovables, com la solar i l'eòlica. Apaga els llums quan surtis d'una habitació, desendolla els aparells quan no els utilitzis i redueix el consum d'energia.",
+  "lesson10-discovercarousel-slide4": "Estigues al dia de la qualitat de l'aire a la teva ciutat! Comprova l'IQA amb regularitat: si l'IQA és bo, vol dir que fa un dia fantàstic per gaudir d'activitats a l'aire lliure. Per contra, si l'IQA és dolent significa que la nostra salut està en perill, així que evita les activitats a l'aire lliure.",
+
+  "lesson10-discovercarousel-slide1-img-alt": "Una nena, un gos, un nen i un ocell al cap del nen tots feliços a la ciutat",
+  "lesson10-discovercarousel-slide2-img-alt": "Una muntanya amb un avió amb la icona de prohibició",
+  "lesson10-discovercarousel-slide3-img-alt": "Un ocell humanitzat que desconecta l'endoll de l'electricitat",
+  "lesson10-discovercarousel-slide4-img-alt": "Un telèfon amb la icona d'AQI dins",
+
+  "lesson11-discoverdropdown-1-title": "Més arbres, menys cotxes!",
+  "lesson11-discoverdropdown-2-title": "Més energies renovables!",
+  "lesson11-discoverdropdown-3-title": "Més educació!",
+
+  "lesson11-discoverdropdown-1-desc": "A les ciutats, podem reduir les fonts de contaminació de l'aire (com els cotxes) creant més parcs a les zones urbanes i zones amb trànsit restringit, així com millorant el transport públic. Deixar entrar la natura farà que els entorns urbans siguin més saludables i habitables.",
+  "lesson11-discoverdropdown-2-desc": "Tot i que consumir menys energia pot ajudar, l'energia que s'utilitza a les llars, edificis i fàbriques hauria de provenir de fonts renovables com l'energia solar i l'eòlica, a fi de reduir la contaminació atmosfèrica de les centrals elèctriques de carbó i gas.",
+  "lesson11-discoverdropdown-3-desc": "Saber més sobre la contaminació atmosfèrica empodera els ciutadans i els permet prendre decisions per protegir la seva salut. A més, donar suport a les comunitats amb menys recursos és important per ajudar a reduir els efectes de la qualitat de l'aire a la salut a nivell mundial.",
+
+  "challenge1-title": "Repte L'aire que respirem",
+
+  "lesson1-challenge-question1": "De què es compon l'aire?",
+
+  "lesson1-challenge-question1-choice1": "Partícules diminutes anomenades aerosols.",
+  "lesson1-challenge-question1-choice2": "Nitrogen, oxigen, altres gasos en menor quantitat i material particulat.",
+  "lesson1-challenge-question1-choice3": "Aerosols, pols i contaminants.",
+
+  "lesson1-challenge-question2": "Quins dels següents són contaminants atmosfèrics?",
+
+  "lesson1-challenge-question2-choice1": "Nitrogen i oxigen.",
+  "lesson1-challenge-question2-choice2": "Fum, pols i pol·len.",
+  "lesson1-challenge-question2-choice3": "Nitrogen, oxigen i gasos d'efecte hivernacle.",
+
+  "lesson1-challenge-question3": "Què fa augmentar la quantitat de gasos d'efecte hivernacle a l'atmosfera?",
+
+  "lesson1-challenge-question3-choice1": "Les activitats humanes.",
+  "lesson1-challenge-question3-choice2": "L'efecte hivernacle.",
+  "lesson1-challenge-question3-choice3": "Els deserts.",
+
+
+  "challenge2-title": "Repte Contaminació atmosfèrica",
+
+  "lesson2-challenge-question1": "Per què els contaminants atmosfèrics són perillosos per a la nostra salut?",
+
+  "lesson2-challenge-question1-choice1": "Perquè provoquen malalties respiratòries i cardiovasculars.",
+  "lesson2-challenge-question1-choice2": "Perquè redueixen la visibilitat a les ciutats.",
+  "lesson2-challenge-question1-choice3": "Perquè modifiquen el temps i les estacions.",
+
+  "lesson2-challenge-question2": "Com afecta la contaminació de l'aire al medi ambient?",
+
+  "lesson2-challenge-question2-choice1": "Els contaminants fan augmentar el creixement de la vegetació.",
+  "lesson2-challenge-question2-choice2": "Els contaminants fan augmentar la claredat d'un paisatge.",
+  "lesson2-challenge-question2-choice3": "Els contaminants fan augmentar l'acidesa de la terra i de l'aigua.",
+
+  "lesson2-challenge-question3": "Quina de les següents afirmacions és incorrecta?",
+
+  "lesson2-challenge-question3-choice1": "Els contaminants de l'aire afecten la nostra salut.",
+  "lesson2-challenge-question3-choice2": "Els contaminants de l'aire no afecten els animals, només els humans.",
+  "lesson2-challenge-question3-choice3": "Els contaminants de l'aire empitjoren la qualitat de l'aire que respirem.",
+ 
+  "challenge3-title": "Repte El que no podem veure",
+
+  "lesson3-challenge-question1": "Quan un dia és clar, la qualitat de l'aire sempre és bona.",
+  "lesson3-challenge-question2": "La majoria dels contaminants de l'aire són massa petits per poder ser vists amb els nostres ulls.",
+  "lesson3-challenge-question3": "La contaminació de l'aire és una amenaça invisible per a la nostra salut.",
+
+  "challenge4-title": "Repte Una qüestió d'hàbits",
+
+  "lesson4-challenge-question1": "La majoria dels contaminants de l'aire es troben a les ciutats, a causa del trànsit i d'altres activitats humanes.",
+  "lesson4-challenge-question2": "El fum de les cigarretes és la font més important de contaminació atmosfèrica.",
+  "lesson4-challenge-question3": "Els volcans i els incendis forestals són fonts naturals de contaminants atmosfèrics.",
+
+  "challenge5-title": "Repte La contaminació de l'aire no té fronteres.",
+
+  "lesson5-challenge-question1": "El vent, la pluja i els patrons de l'aire són les principals fonts naturals de contaminació de l'aire a Europa.",
+  "lesson5-challenge-question2": "La pols del desert és la principal font natural de contaminació de l'aire a Europa.",
+  "lesson5-challenge-question3": "La pols sahariana viatja per Europa i l'oceà Atlàntic seguint els patrons del vent.",
+  
+  "challenge6-title": "Repte L'índex de qualitat de l'aire",
+
+  "lesson6-challenge-question1": "Què mostra l'índex de qualitat de l'aire (IQA)?",
+
+  "lesson6-challenge-question1-choice1": "Com de net està l'aire.",
+  "lesson6-challenge-question1-choice2": "Com de bona és la visibilitat.",
+  "lesson6-challenge-question1-choice3": "Quin temps fa.",
+
+  "lesson6-challenge-question2": "Quina de les següents afirmacions no és correcta?",
+
+  "lesson6-challenge-question2-choice1": "Quan la qualitat de l'aire és bona, l'IQA és baix.",
+  "lesson6-challenge-question2-choice2": "Quan la qualitat de l'aire és dolenta, apareix de color verd al mapa.",
+  "lesson6-challenge-question2-choice3": "Quan hi ha contaminants a l'aire, l'IQA és alt i la qualitat de l'aire és deficient.",
+
+  "lesson6-challenge-question3": "Com d'útil és l'IQA per als ciutadans?",
+
+  "lesson6-challenge-question3-choice1": "Pot ajudar-los a prendre mesures per protegir la seva salut quan la qualitat de l'aire és dolenta.",
+  "lesson6-challenge-question3-choice2": "Els pot ajudar a planificar les seves vacances.",
+  "lesson6-challenge-question3-choice3": "Els mostra quina serà la temperatura aquell dia.",
+
+  "challenge7-title": "Repte Els colors de la qualitat de l'aire",
+
+ "lesson7-challenge-question1": "Segons el mapa, la qualitat de l'aire era dolenta a moltes ciutats importants, com Milà, Barcelona i París, durant la tardor del 2016.",
+ "lesson7-challenge-question2": "La qualitat de l'aire es troba a nivells insalubres a tot el nord i l'oest d'Europa, com el Regne Unit i Finlàndia, així que el millor és limitar les activitats a l'aire lliure.",
+ "lesson7-challenge-question3": "El nord d'Itàlia i algunes parts de l'est d'Europa, com Polònia i Sèrbia, tenen la qualitat de l'aire més dolenta d'Europa.",
+
+  "challenge8-title": "Repte Comparant la qualitat de l'aire",
+
+ "lesson8-challenge-question1": "La qualitat de l'aire és millor a la tarda, quan hi ha menys trànsit que al matí.",
+ "lesson8-challenge-question2": "És millor fer exercici a l'aire lliure al matí, ja que la qualitat de l'aire és millor.",
+ "lesson8-challenge-question3": "Les carreteres molt transitades s'han d'evitar al matí a causa de la mala qualitat de l'aire.",
+
+  "challenge9-title": "Repte Un risc per a la nostra salut",
+
+  "lesson9-challenge-question1": "La contaminació de l'aire pot causar malalties pulmonars i cardiàques.",
+  "lesson9-challenge-question2": "Les dones embarassades corren un risc especial quan respiren aire contaminat.",
+  "lesson9-challenge-question3": "La natura és l'única font de contaminació de l'aire.",
+
+  "challenge10-title": "Repte Accions que podem dur a terme",
+
+  "lesson10-challenge-question1": "Quina de les següents fonts contribueix més a la contaminació de l'aire?",
+
+  "lesson10-challenge-question1-choice1": "Les tempestes de sorra.",
+  "lesson10-challenge-question1-choice2": "Els cotxes i altres vehicles.",
+  "lesson10-challenge-question1-choice3": "Les erupcions volcàniques.",
+
+  "lesson10-challenge-question2": "Què pots fer per reduir dràsticament la contaminació de l'aire?",
+
+  "lesson10-challenge-question2-choice1": "Evitar utilitzar el cotxe: caminar i anar més en bicicleta.",
+  "lesson10-challenge-question2-choice2": "Escollir sempre l'avió, són els que menys contaminen.",
+  "lesson10-challenge-question2-choice3": "Apagar els llums quan no els estiguis utilitzant.",
+
+  "lesson10-challenge-question3": "Què pots fer per protegir-te de la contaminació de l'aire?",
+
+  "lesson10-challenge-question3-choice1": "Consultar l'IQA de la teva ciutat i adaptar les teves activitats.",
+  "lesson10-challenge-question3-choice2": "Anar en bicicleta cada dia, fins i tot els dies amb un índex de la qualitat de l'aire deficient.",
+  "lesson10-challenge-question3-choice3": "Utilitzar el cotxe més sovint.",
+
+ "challenge11-title": "Repte Un aire més net per a tothom",
+
+ "lesson11-challenge-question1": "La creació de més espais verds a les zones urbanes redueix la contaminació atmosfèrica.",
+ "lesson11-challenge-question2": "La producció i l'ús d'energia no afecta la qualitat de l'aire.",
+ "lesson11-challenge-question3": "Fins i tot les petites accions locals poden ajudar a protegir la salut de les persones arreu del món.",
+
+  "fail-result-description": "Aquesta no és la resposta correcta, però no et preocupis! Sempre pots tornar-ho a provar. Tu pots!",
+  "success-result-description": "Correcte! Ets un/a campió/na de la qualitat de l'aire!",
+
+  "failed-challenge-button": "TORNAR-HO A INTENTAR",
+  "successful-challenge-button": "CONTINUAR",
+
+  "fail-result-title": "No exactament",
+  "success-result-title": "Bona feina!",
+
+  "quiz-retry-button": "TORNAR-HO A INTENTAR",
+  "quiz-submit-button": "ENVIAR",
+  "quiz-next-button": "CONTINUAR",
+
+  "home-button-label": "Inici",
+  "arexploration-button-label": "Exploració amb RA",
+  "profile-button-label": "El meu perfil",
+  "accesibility-button-label": "Accessibilitat",
+  "lang-change-button-label": "Canviar d'idioma",
+  "help-button-label": "Ajuda",
+  "about-button-label": "Sobre",
+
+  "skip-button": "OMETRE",
+
+  "onboarding-slide1-title": "Aprendre",
+  "onboarding-slide2-title": "Explorar",
+  "onboarding-slide3-title": "Jugar",
+  "onboarding-slide4-title": "Preparat?",
+
+  "onboardingcarousel-slide1": "els conceptes bàsics de la qualitat de l'aire i com afecta la nostra salut",
+  "onboardingcarousel-slide2": "mapes immersius de qualitat de l'aire amb tecnologia de realitat augmentada",
+  "onboardingcarousel-slide3": "diverteix-te i valora els teus coneixements!",
+  "onboardingcarousel-slide4": "Uneix-te al ramat i aprenguem junts!",
+
+  "onboarding-finished-button": "COMENÇAR L'AVENTURA",
+
+  "vr-legend-lesson3-title": "El que no veiem",
+  "vr-legend-lesson7-title": "Mapa de l'IQA d'Europa",
+  "vr-legend-lesson8-title": "Mapa de l'IQA de Barcelona",
+
+  "vr-legend-lesson3-text": "Tot i que de vegades som capaços de veure les partícules que contaminen l'aire, com ara les dels fums negres d'escapament i la pols, la majoria dels contaminants de l'aire són tan petits que no els podem veure a simple vista sinó només amb un microscopi. Fins i tot en un dia aparentment clar, la qualitat de l'aire pot ser dolenta. Els contaminants que es troben a l'aire es poden inhalar, afectant així la nostra salut, a més de tenir un efecte negatiu sobre el medi ambient.",
+  "vr-legend-lesson7-text": "Aquest és un mapa de l'IQA mitjà a Europa durant la tardor del 2016. Pots veure com era la qualitat de l'aire a cada regió a partir dels colors de l'IQA. Explora el mapa i respon les preguntes del repte.",
+  "vr-legend-lesson8-text": "Aquest és un mapa de l'IQA a la ciutat de Barcelona, en dos moments diferents el mateix dia. Pots veure com canvia la qualitat de l'aire en funció dels colors de l'IQA. Explora el mapa i respon les preguntes del repte.",
+
+  "about-section1-title": "GreenAIR",
+  "about-section2-title": "GreenSCENT",
+  "about-section3-title": "El Barcelona Supercomputing Center",
+
+  "about-section1-text": "<p>L'aplicació GreenAir té la missió de fer que l'aprenentatge sobre la qualitat de l'aire sigui tan fàcil com un ocell que vola pel cel: senzill, accessible i amb un toc de diversió alada! </p><p> Hem creat aquesta aplicació perquè l'educació sobre la qualitat de l'aire sigui un joc de nens. Així que, puja, tuiteja i volem junts per l'apassionant món de l'aire net! </p><p>Aquesta aplicació està dissenyada per esmicolar les complexitats dels conceptes de qualitat de l'aire, atenent alumnes de totes les edats, però se centra en els alumnes de 10 a 15 anys. El nostre objectiu és proporcionar una experiència fàcil de fer servir que transcendeixi les barreres, oferint una forma senzilla però divertida d'explorar els aspectes fonamentals de la qualitat de l'aire. Uneix-te a nosaltres en aquest viatge educatiu, on el coneixement s'uneix a l'emoció, i junts, fem que entendre la qualitat de l'aire sigui bufar i fer ampolles!</p>",
+  "about-section2-text1": "<p>GreenScent – Smart Citizen Education for a Green Future.</p><p>Through collaboration and research-based learning, we will develop digital, physical and hybrid educational technologies that can be used to promote environmental awareness.</p>",  
+  "about-section2-text2": "GreenScent: educació ciutadana intel·ligent per a un futur verd té com a objectiu educar i empoderar els ciutadans d'Europa perquè canviïn el seu comportament envers el medi ambient fomentant l'empatia envers el planeta. A GreenSCENT, creiem que el canvi de comportament és vital per assolir els objectius establerts pel Green Deal de la Comissió Europea de neutralitat climàtica al continent europeu per al 2050.",
+  "about-section3-text": "<p>El Barcelona Supercomputing Center-Centro Nacional de Supercomputación (BSC-CNS) és el centre nacional de supercomputació d'Espanya. Som especialistes en computació d'alt rendiment (HPC, per les seves sigles en anglès) i gestionem MareNostrum, un dels superordinadors més potents d'Europa, situat a la capella de Torre Girona. </p><p>El BSC està al servei de la comunitat científica internacional i de la indústria que requereix recursos HPC. El nostre equip de recerca multidisciplinari i les nostres instal·lacions computacionals –incloent-hi el MareNostrum– fan del BSC un centre internacional d'excel·lència en e-Science. </p><p>Aquesta aplicació ha estat dissenyada en el context del projecte GreenSCENT per l'equip del Departament de Ciències de la Terra amb la col·laboració del Departament CASE.</p>",  
+  "about-section3-text-2": "<p>Aquesta aplicació i les seves visualitzacions van ser desenvolupades pel <a>BSC Data Viz Group.</a></p>",
+  "about-section4-text": "Aquest projecte ha rebut finançament del programa de recerca i innovació Horizon 2020 de la Unió Europea en virtut de l'acord de subvenció núm. 101036480.",
+  "about-section5-text1": "Termes i condicions  Política de privadesa  Contacte",
+  "about-section5-text2": "Barcelona Supercomputing Center (BSC) © 2024",
+
+  "about-external-button": "VISITAR LA WEB",
+
+  "help-text1": "Estem aquí per garantir que el teu viatge d'aprenentatge amb la nostra aplicació sigui tan fluid com un ocell en vol. Explora les nostres preguntes freqüents.",
+  "help-text2": "Necessites més ajuda? No et preocupis, estem a un correu electrònic de distància",
+  "help-discoverdropdown-1-title": "Com puc restablir les meves dades? Com es gestiona la meva informació personal?",
+  "help-discoverdropdown-2-title": "Quines lliçons incorporen la realitat augmentada?",
+  "help-discoverdropdown-3-title": "Puc fer un seguiment del meu progrés o assoliments?",
+  "help-discoverdropdown-4-title": "S'actualitzarà l'aplicació?",
+  "help-discoverdropdown-5-title": "Estic tenint problemes tècnics. Què hauria de fer?",
+
+  "help-discoverdropdown-1-desc":"Si vols restablir les dades de l'aplicació i el teu progrés, visita la secció "Perfil" al menú inferior i fes clic a "Esborrar les meves dades" a la part superior. Tingues en compte que no recollim ni desem cap dada d'usuari del vostre dispositiu.",
+  "help-discoverdropdown-2-desc":"Les funcions de realitat augmentada s'incorporen a les següents lliçons: El que no podem veure; Els colors de la qualitat de l'aire; i Comparativa de la qualitat de l'aire.",
+  "help-discoverdropdown-3-desc": "Després d'explorar cada lliçó, arribaràs a un repte que posa a prova els coneixements adquirits. Si respons correctament a totes les preguntes, completaràs la lliçó. Pots consultar el teu progrés i els trofeus recollits al teu perfil, que trobaràs al menú de la part inferior.",
+  "help-discoverdropdown-4-desc": "Com que l'aplicació té una finalitat educativa, tot el contingut està disponible en aquesta versió i no s'esperen més actualitzacions.",
+  "help-discoverdropdown-5-desc": "Pots posar-te en contacte amb nosaltres mitjançant el botó següent.",
+
+  "resources-section1-text": "Per ampliar el teu coneixement sobre la qualitat de l'aire, hem seleccionat recursos addicionals dissenyats per enriquir encara més la teva experiència d'aprenentatge.",
+  
+  "resources-card-1-title": "Tutorial de GreenAIR",
+  "resources-card-1-description": "Obteniu més informació sobre com funciona l'aplicació GreenAir",
+  "resources-card-1-alt": "",
+  "resources-card-1-type": "INFOGRAFIA",
+
+  "resources-card-2-title": "Qualitat de l'aire",
+  "resources-card-2-description": "Quina és la composició de l'aire que respirem?",
+  "resources-card-2-alt": "",
+  "resources-card-2-type": "INFOGRAFIA",
+
+  "resources-card-3-title": "Air quality index (AQI)",
+  "resources-card-3-description": "Com es mesura la qualitat de l'aire?",
+  "resources-card-3-alt": "",
+  "resources-card-3-type": "INFOGRAFIA",
+
+  "resources-card-4-title": "Principals contaminants atmosfèrics",
+  "resources-card-4-description": "Quins són els contaminants atmosfèrics més comuns?",
+  "resources-card-4-alt": "",
+  "resources-card-4-type": "INFOGRAFIA",
+
+  "resources-card-5-title": "Principals fonts de contaminació atmosfèrica",
+  "resources-card-5-description": "D'on provenen els contaminants atmosfèrics?",
+  "resources-card-5-alt": "",
+  "resources-card-5-type": "INFOGRAFIA",
+
+  "resources-card-6-title": "Accions contra la contaminació atmosfèrica",
+  "resources-card-6-description": "Com podem reduir la contaminació de l'aire i protegir-nos?",
+  "resources-card-6-alt": "",
+  "resources-card-6-type": "INFOGRAFIA",
+
+  "resources-section-2-text-1": "Tens curiositat per saber més sobre el món de la qualitat de l'aire?",
+  "resources-section-2-text-2": "Hi trobaràs previsions, recursos útils i un tresor de coneixements que t'esperen! Desplega aquestes ales i vola al nostre lloc web ara.",
+  "resources-section-2-text-3": "Feliç aprenentatge!",
+
+  "resources-external-button": "VISITAR CALIOPE",
+  
+  "accessibility-section-title": "GreenAIR",
+  "accessibility-text-1": "<p>Creiem en la creació d'experiències inclusives per a tots els usuaris. Aquesta Guia d'Accessibilitat està dissenyada per ajudar-vos a treure el màxim profit de la nostra aplicació i del joc immersiu de realitat augmentada sobre la qualitat de l'aire utilitzant les funcions d'accessibilitat del vostre dispositiu mòbil. Tant si utilitzeu lectors de pantalla com necessiteu ajustos visuals o busqueu millores tàctils, hem recopilat tot un seguit d'instruccions senzilles per garantir que tothom pugui gaudir del nostre contingut sense problemes. Exploreu els passos següents per adaptar la vostra experiència i feu-nos saber si hi ha quelcom més que poguem fer per millorar-ne l'accessibilitat.</p>",
+  "accessibility-text-2": "<h4>1. Obrir la configuració d'accessibilitat:</h4><ul><li>iOS (iPhone):</li><li2>Anar a 'Configuració'.</li2><li2>Seleccionar 'Accessibilitat'.</li2><li>Android:</li><li2>Anar a 'Configuració'.</li2><li2>Escollir 'Accessibilitat'.</li2></ul>",
+  "accessibility-text-3": "<h4>2. Activar les funcions d'accessibilitat:</h4><ul><li>En funció de les necessitats de l'usuari, activar les funcions rellevants com ara:</li><li2>VoiceOver (lector de pantalla):</li2><li3>iOS: Configuració > Accessibilitat > VoiceOver.</li3><li3>Android: Configuració > Accessibilitat > Visió > TalkBack.</li3><li2>Gestos d'ampliació:</li2><li3>iOS: Configuració > Accessibilitat > Zoom.</li3><li3>Android: Configuració > Accessibilitat > Visió > Ampliació.</li3><li2>Subtítols i llegendes:</li2><li3>iOS: Configuració > Accessibilitat > Subtítols i subt. descriptius.</li3><li3>Android: Configuració > Accessibilitat > Audició > Preferències de subtítols.</li3></ul>",
+  "accessibility-text-4": "<h4>3. Ajustar la configuració de la pantalla:</h4><ul><li>Ajustar la visibilitat:</li><li2>Mida del text:</li2><li3>iOS: Configuració > Pantalla i brillantor > Mida del text.</li3><li3>Android: Configuració > Accessibilitat > Visió > Mida de visualització.</li3><li2>Inversió del color:</li2><li3>iOS: Configuració > Accessibilitat > Pantalla i mida del text > Inversió intel·ligent.</li3><li3>Android: Configuració > Accessibilitat > Visió > Inversió de colors</li3></ul>",
+
+  "not-ar-compatible": "No compatible amb la RA",
+  "enter-ar": "Introduir la RA",
+  "exit-ar": "Sortir de la RA",
+
+  "challenge-show": "Mostrar el repte",
+  "challenge-hide": "Amagar el repte",
+  "focus-surface-warn-msg": "Trobar una superfície plana per veure l'element",
+  "agree-cookies": "D'acord",
+  "disagree-cookies": "REBUTJAR",
+  "cookies-message": "En utilitzar aquest lloc web, accepteu l'ús de galetes, incloses les de Google Analytics, per millorar la vostra experiència de navegació i proporcionar-nos informació sobre el trànsit del lloc web.",
+  "true-label": "VERTADER",
+  "false-label": "FALS",
+  "legend-part-1": "BONA",
+  "legend-part-2": "RAONABLEMENT BONA",
+  "legend-part-3": "REGULAR",
+  "legend-part-4": "DESFAVORABLE",
+  "legend-part-5": "MOLT DESFAVORABLE",
+  "legend-part-6": "EXTREMADAMENT DESFAVORABLE",
+
+  "en-label": "Anglès",
+  "es-label": "Espanyol",
+  "ca-label": "Català",
+  "gr-label": "Grec",
+  "fi-label": "Finlandès",
+  "language-title": "Selecció de la llengua"
+}
