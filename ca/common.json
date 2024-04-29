@@ -80,7 +80,7 @@
   "lesson2-discovercarousel-slide4-img-alt": "Uns pulmons insalubres vs el planeta Terra trist i suant amb un termòmetre.",
 
   "lesson3-discovercarousel-slide1": "Fes una ullada a la sala. Hi ha moltes partícules a l'aire encara que no puguis veure-les! En aquesta lliçó pots explorar gràcies a la realitat augmentada com serien les partícules de l'aire si fossin visibles per l'ull humà.",
-  "lesson3-discovercarousel-slide2": "Fes clic al botó RA a la part inferior dreta de la pantalla per veure la sala i fes clic a "Mostrar el repte" a la part superior per respondre les preguntes del repte.",
+  "lesson3-discovercarousel-slide2": "Fes clic al botó RA a la part inferior dreta de la pantalla per veure la sala i fes clic a \"Mostrar el repte\" a la part superior per respondre les preguntes del repte.",
   
   "discovermap-lesson4-tooltip1-h": "Fonts naturals",
   "discovermap-lesson4-tooltip1-desc": "Les principals fonts de contaminació atmosfèrica són antropogèniques. Tot i això, els contaminants també poden procedir en menor quantitat d'incendis forestals o d'erupcions volcàniques, així com de tempestes de sorra i pols.",
@@ -118,7 +118,7 @@
   "lesson7-discovercarousel-slide3": "Les dades que es mostre són sortides reals del sistema de modelització CALIOPE, desenvolupat al Barcelona Supercomputing Center (llegeix-ne més a l'apartat 'Sobre').",
 
   "lesson8-discovercarousel-slide1": "Al mapa, pots veure que la qualitat de l'aire es troba a nivells insalubres a les 10 h en carreteres transitades a causa del trànsit de primera hora del matí. No obstant això, la contaminació de l'aire baixa a tota la ciutat més tard durant el dia.",
-  "lesson8-discovercarousel-slide2": "Explora el mapa i respon les preguntes del repte. A la part inferior de la pantalla, selecciona l'hora del dia que vols visualitzar i fes clic al botó "RA" per veure el mapa a la sala on estàs. Fes clic a "Mostrar el repte" a la part superior per respondre les preguntes del repte.",
+  "lesson8-discovercarousel-slide2": "Explora el mapa i respon les preguntes del repte. A la part inferior de la pantalla, selecciona l'hora del dia que vols visualitzar i fes clic al botó \"RA\" per veure el mapa a la sala on estàs. Fes clic a \"Mostrar el repte\" a la part superior per respondre les preguntes del repte.",
   "lesson8-discovercarousel-slide3": "Les dades mostrades són sortides reals del sistema de modelització CALIOPE que desenvolupa el Barcelona Supercomputing Center (llegiu-ne més a l'apartat 'Sobre').",
   
 
@@ -340,7 +340,7 @@
   "help-discoverdropdown-4-title": "S'actualitzarà l'aplicació?",
   "help-discoverdropdown-5-title": "Estic tenint problemes tècnics. Què hauria de fer?",
 
-  "help-discoverdropdown-1-desc":"Si vols restablir les dades de l'aplicació i el teu progrés, visita la secció "Perfil" al menú inferior i fes clic a "Esborrar les meves dades" a la part superior. Tingues en compte que no recollim ni desem cap dada d'usuari del vostre dispositiu.",
+  "help-discoverdropdown-1-desc":"Si vols restablir les dades de l'aplicació i el teu progrés, visita la secció \"Perfil\" al menú inferior i fes clic a \"Esborrar les meves dades\" a la part superior. Tingues en compte que no recollim ni desem cap dada d'usuari del vostre dispositiu.",
   "help-discoverdropdown-2-desc":"Les funcions de realitat augmentada s'incorporen a les següents lliçons: El que no podem veure; Els colors de la qualitat de l'aire; i Comparativa de la qualitat de l'aire.",
   "help-discoverdropdown-3-desc": "Després d'explorar cada lliçó, arribaràs a un repte que posa a prova els coneixements adquirits. Si respons correctament a totes les preguntes, completaràs la lliçó. Pots consultar el teu progrés i els trofeus recollits al teu perfil, que trobaràs al menú de la part inferior.",
   "help-discoverdropdown-4-desc": "Com que l'aplicació té una finalitat educativa, tot el contingut està disponible en aquesta versió i no s'esperen més actualitzacions.",
