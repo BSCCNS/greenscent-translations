@@ -405,9 +405,9 @@
   "legend-part-1": "BONA",
   "legend-part-2": "RAONABLEMENT BONA",
   "legend-part-3": "REGULAR",
-  "legend-part-4": "DESFAVORABLE",
-  "legend-part-5": "MOLT DESFAVORABLE",
-  "legend-part-6": "EXTREMADAMENT DESFAVORABLE",
+  "legend-part-4": "MALA",
+  "legend-part-5": "MOLT MALA",
+  "legend-part-6": "PERILLOSOS",
 
   "en-label": "Anglès",
   "es-label": "Espanyol",
