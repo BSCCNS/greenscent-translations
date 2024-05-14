@@ -1,6 +1,6 @@
 {
   "discover-title": "Descobrir",
-  "challenge-title": "Desafiament",
+  "challenge-title": "Repte",
   "about-title": "Sobre",
   "resources-title": "Recursos",
   "accessibility-title": "Accessibilitat",
@@ -29,7 +29,7 @@
   "lesson11-title": "Un aire més net per a tothom",
  
 
-  "lesson1-intro-text": "L'aire es compon, principalment, d'oxigen i nitrogen, així com d'altres gasos en menor quantitat, com ara òxids de nitrogen, compostos orgànics, ozó, diòxid de sofre i gasos d'efecte hivernacle. A l'aire també hi suren partícules diminutes, anomenades material particulat (en anglès, particulate matter or PM).",
+  "lesson1-intro-text": "L'aire es compon, principalment, d'oxigen i nitrogen, així com d'altres gasos en menor quantitat, com ara òxids de nitrogen, compostos orgànics, ozó, diòxid de sofre i gasos d'efecte hivernacle. A l'aire també hi suren partícules diminutes, anomenades material particulat (en anglès, particulate matter o PM).",
   "lesson2-intro-text": "La composició de l'aire canvia contínuament segons l'hora del dia, el temps, l'estació i l'elevació. Qualsevol partícula que modifiqui les característiques naturals de l'aire s'anomena contaminant. La contaminació atmosfèrica afecta els éssers humans, els animals i el medi ambient. Els cotxes, les cases, les fàbriques, les granges i altres fonts humanes o naturals poden alliberar contaminants a l'aire i empitjorar-ne la qualitat.",
   "lesson3-intro-text": "Tot i que a vegades podem veure partícules que contaminen l'aire, com els fums negres dels tubs d'escapament, la majoria dels contaminants atmosfèrics són tan petits que no els podem veure a simple vista sinó només amb un microscopi. Fins i tot en un dia aparentment clar, la qualitat de l'aire pot ser dolenta, afectant la nostra salut i el medi ambient.",
   "lesson4-intro-text": "Els nostres hàbits i activitats quotidianes afecten l'entorn on vivim. Per exemple, les fàbriques, els vehicles i el fum de les cigarretes alliberen partícules a l'aire que són molt perjudicials per a la nostra salut. Aquestes partícules s'anomenen contaminants d'origen humà (antròpics). A més de les activitats humanes, els contaminants atmosfèrics també poden provenir de fonts naturals, com les tempestes de pols i els desastres naturals.",
@@ -302,9 +302,9 @@
   "onboarding-slide3-title": "Jugar",
   "onboarding-slide4-title": "Preparat?",
 
-  "onboardingcarousel-slide1": "els conceptes bàsics de la qualitat de l'aire i com afecta la nostra salut",
-  "onboardingcarousel-slide2": "mapes immersius de qualitat de l'aire amb tecnologia de realitat augmentada",
-  "onboardingcarousel-slide3": "diverteix-te i valora els teus coneixements!",
+  "onboardingcarousel-slide1": "Conceptes bàsics de la qualitat de l'aire i com afecta la nostra salut",
+  "onboardingcarousel-slide2": "Mapes immersius de qualitat de l'aire amb tecnologia de realitat augmentada",
+  "onboardingcarousel-slide3": "Diverteix-te i valora els teus coneixements!",
   "onboardingcarousel-slide4": "Uneix-te al ramat i aprenguem junts!",
 
   "onboarding-finished-button": "COMENÇAR L'AVENTURA",
@@ -403,11 +403,11 @@
   "true-label": "VERTADER",
   "false-label": "FALS",
   "legend-part-1": "BONA",
-  "legend-part-2": "RAONABLEMENT BONA",
-  "legend-part-3": "REGULAR",
-  "legend-part-4": "MALA",
-  "legend-part-5": "MOLT MALA",
-  "legend-part-6": "PERILLOSOS",
+  "legend-part-2": "MODERADA"
+  "legend-part-3": "DEFICIENT",
+  "legend-part-4": "DOLENTA",
+  "legend-part-5": "MOLT DOLENTA",
+  "legend-part-6": "PERILLOSA",
 
   "en-label": "Anglès",
   "es-label": "Espanyol",
