@@ -278,7 +278,7 @@
 
   
 
-  "fail-result-description": "This is not the right answer, but don't worry! You can always try again, you can do it!",
+  "fail-result-description": "You haven't responded to all the questions correctly, but don't worry! You can always try again, you can do it!",
   "success-result-description": "That's right! You are an air quality champion!",
 
   "failed-challenge-button": "TRY AGAIN",
@@ -422,6 +422,5 @@
   "language-title": "Language selection"
 
   "save-changes-button": "Save Changes",
-  
-  "legend-date-info": "Legend Date & Info",
+  "legend-date-info": "Legend",
 }
