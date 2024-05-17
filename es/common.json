@@ -277,7 +277,7 @@
  "lesson11-challenge-question3": "Incluso pequeñas acciones locales pueden ayudar a proteger la salud de las personas en todo el mundo.",
 
 
-  "fail-result-description": "Esta no es la respuesta correcta, ¡pero no te preocupes! Siempre puedes volver a intentarlo, ¡puedes hacerlo!",
+  "fail-result-description": "No has respondido correctamente a todas las preguntas, ¡pero no te preocupes! Siempre puedes volver a intentarlo, ¡puedes hacerlo!",
   "success-result-description": "¡Así es! ¡Eres un campeón de la calidad del aire!",
 
   "failed-challenge-button": "VOLVER A INTENTARLO",
@@ -418,4 +418,7 @@
   "gr-label": "Griego",
   "fi-label": "Finlandés",
   "language-title": "Selección de idioma"
+  
+  "save-changes-button": "Guardar cambios",
+  "legend-date-info": "Leyenda",
 }
