@@ -403,7 +403,7 @@
   "true-label": "VERTADER",
   "false-label": "FALS",
   "legend-part-1": "BONA",
-  "legend-part-2": "MODERADA"
+  "legend-part-2": "MODERADA",
   "legend-part-3": "DEFICIENT",
   "legend-part-4": "DOLENTA",
   "legend-part-5": "MOLT DOLENTA",
@@ -414,9 +414,9 @@
   "ca-label": "Català",
   "gr-label": "Grec",
   "fi-label": "Finlandès",
-  "language-title": "Selecció de la llengua"
+  "language-title": "Selecció de la llengua",
 
   
   "save-changes-button": "Guardar canvis",
-  "legend-date-info": "Llegenda",
+  "legend-date-info": "Llegenda"
 }
