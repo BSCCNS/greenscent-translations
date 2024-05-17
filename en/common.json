@@ -298,7 +298,7 @@
   "lang-change-button-label": "Change Language",
   "help-button-label": "Help",
   "about-button-label": "About",
-  "save-changes-button": "Save Changes",
+
 
   "skip-button": "SKIP",
 
@@ -420,4 +420,6 @@
   "gr-label": "Greek",
   "fi-label": "Finnish",
   "language-title": "Language selection"
+
+  "save-changes-button": "Save Changes",
 }
