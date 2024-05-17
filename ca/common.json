@@ -274,7 +274,7 @@
  "lesson11-challenge-question2": "La producció i l'ús d'energia no afecta la qualitat de l'aire.",
  "lesson11-challenge-question3": "Fins i tot les petites accions locals poden ajudar a protegir la salut de les persones arreu del món.",
 
-  "fail-result-description": "Aquesta no és la resposta correcta, però no et preocupis! Sempre pots tornar-ho a provar. Tu pots!",
+  "fail-result-description": "No has respost correctament a totes les preguntes, però no et preocupis! Sempre pots tornar-ho a provar. Tu pots!",
   "success-result-description": "Correcte! Ets un/a campió/na de la qualitat de l'aire!",
 
   "failed-challenge-button": "TORNAR-HO A INTENTAR",
@@ -415,4 +415,8 @@
   "gr-label": "Grec",
   "fi-label": "Finlandès",
   "language-title": "Selecció de la llengua"
+
+  
+  "save-changes-button": "Guardar canvis",
+  "legend-date-info": "Llegenda",
 }
