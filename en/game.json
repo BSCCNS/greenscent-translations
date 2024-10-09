@@ -27,10 +27,13 @@
     "endgame-text-2":"Want to play again?",
     "endgame-button":"Play Again",
 
-    "card-1-text":"",
-    "card-2-text":"",
-    "card-3-text":"",
-    "card-4-text":"",
-    "card-5-text":"",
-    "card-6-text":""
+    "card-1-text":"Avoid walking or cycling in busy streets and avenues",
+    "card-2-text":"When walking, keep at least a 2-meter distance from the road",
+    "card-3-text":"Stay informed about the AQI in your area to know when to take measures to protect yourself",
+    "card-4-text":"Prefer exercising outdoors and doing outdoor activities during this time",
+    "card-5-text":"Cycle closely behind cars in busy roads",
+    "card-6-text":"Drive through less busy routes to avoid increasing pollutant concentration in certain areas"
+    "card-7-text":"Use public transport (e.g. bus), as much as possible"
+    "card-8-text":"Avoid idling, i.e. leaving the car running when you are not using it"
+    "card-9-text":"Always travel by car, even for short distances"
 }
