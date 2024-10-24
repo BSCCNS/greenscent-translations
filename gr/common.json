@@ -419,6 +419,8 @@
   "language-title": "Επιλογή γλώσσας",
 
   "save-changes-button": "Αποθήκευση αλλαγών",
-  "legend-date-info": "Υπόμνημα"
-  "language-accept": "Eπιλογή"
+  "legend-date-info": "Υπόμνημα",
+  "language-accept": "Eπιλογή",
+
+  "help-button-contact":"Επικοινωνία"
 }
