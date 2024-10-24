@@ -418,6 +418,8 @@
 
   
   "save-changes-button": "Guardar canvis",
-  "legend-date-info": "Llegenda"
-  "language-accept": "Acceptar"
+  "legend-date-info": "Llegenda",
+  "language-accept": "Acceptar",
+
+  "help-button-contact": "Contacta'ns"
 }
