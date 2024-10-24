@@ -420,6 +420,8 @@
   "language-title": "Selección de idioma",
   
   "save-changes-button": "Guardar cambios",
-  "legend-date-info": "Leyenda"
-  "language-accept": "Aceptar"
+  "legend-date-info": "Leyenda",
+  "language-accept": "Aceptar",
+  
+  "help-button-contact": "Contacta con nosotros"
 }
