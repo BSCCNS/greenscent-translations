@@ -1,13 +1,13 @@
 {
     "event-name-1":"Rush Hour",
-    "event-description-1": ".....",
-    "event-name-2":"???",
+    "event-name-2":"Natural Episode",
+    "event-name-3":"No Pollution Day",
 
     "tutorial-title":"Tutorial",
-    "tutorial-section-1":"1.- Swipe or click on the buttons to accept or reject the cards.",
-    "tutorial-section-2":"2.- Try to get the best ones, you can only pick as many as you see at the top right corner of the screen!",
-    "tutorial-section-3":"3.- Not all cards give you points, watch out!",
-    "tutorial-section-4":"4.- Prove you are a genious in air pollution!",
+    "tutorial-section-1":"1. Congratulations, you have completed all the lessons! Now, let’s put your knowledge to the test!",
+    "tutorial-section-2":"2. In this final test, you will see an air pollution episode or event, such as rush hour. Choose 3 actions to protect yourself and 3 actions to reduce air pollution to complete each challenge. Click on the “green O” button to select and the “red X” button to discard.",
+    "tutorial-section-3":"3. Note that some actions can have a negative impact, in which case you should discard them. If you make a mistake (e.g. discard a positive action or keep a negative), you will have to start over!",
+    "tutorial-section-4":"4. Can you complete all the challenges and become an air quality champion?",
     "tutorial-section-5":"Are you ready to start?",
     "tutorial-button":"Start playing",
     "tutorial-skip":"Skip tutorial",
@@ -28,6 +28,8 @@
     "endgame-text-2":"Want to play again?",
     "endgame-button":"Play Again",
 
+    "close-menu": "Close",
+
     "card-1-text":"Avoid walking or cycling in busy streets and avenues",
     "card-2-text":"When walking, keep at least a 2-meter distance from the road",
     "card-3-text":"Stay informed about the AQI in your area to know when to take measures to protect yourself",
@@ -37,5 +39,22 @@
     "card-7-text":"Use public transport (e.g. bus), as much as possible",
     "card-8-text":"Avoid idling, i.e. leaving the car running when you are not using it",
     "card-9-text":"Always travel by car, even for short distances",
-
+    "card-10-text":"Prefer indoor activities, and limit the time spent outdoors",
+    "card-11-text":"Wear a mask on high-pollution days",
+    "card-12-text":"Learn more how to protect yourself and others, especially during air pollution events",
+    "card-13-text":"Keep windows open",
+    "card-14-text":"Do not pay attention to any air quality alerts and continue with activities as usual",
+    "card-15-text":"Have a bbq outdoors with your family",
+    "card-16-text":"Avoid using the car for short routes or when public transport is available",
+    "card-17-text":"Avoid burning wood or trash at home to not contribute to pollution",
+    "card-18-text":"Choose local products to limit pollution from transportation",
+    "card-19-text":"Always use heating or air conditioning, even when it’s not needed",
+    "card-20-text":"Talk about air pollution with your friends and family to raise awareness on how to protect yourselves",
+    "card-21-text":"Get involved in actions against air pollution for healthier air in your neighborhood / community",
+    "card-22-text":"Have fun while learning how to protect your health with the GreenAIR app!",
+    "card-23-text":"Save electricity at home, e.g. turn off the lights, or use the stairs instead of lift, and choose renewables",
+    "card-24-text":"Take less flights, and use the train where possible",
+    "card-25-text":"Choose a car that is fuel-efficient and less polluting",
+    "card-26-text":"Buy fast fashion that is produced and shipped from far away places",
+    "card-27-text":"Do not share the GreenAIR app with your friends and family, so that they will not learn about air pollution!"
 }
