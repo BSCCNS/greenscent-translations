@@ -1,20 +1,20 @@
 {
-    "event-name-1":"Rush Hour",
-    "event-name-2":"Natural Episode",
-    "event-name-3":"No Pollution Day",
-
     "tutorial-title":"Tutorial",
-    "tutorial-section-1-title":"Starting the game", 
+    "tutorial-section-1-title": "Starting the game",  
     "tutorial-section-1":"<p>This final quiz will put your knowledge to the test!</p><p>You’ll be given an air pollution episode or event (e.g. rush hour).</p>",
+    
     "tutorial-section-2-title":"Choosing cards",
     "tutorial-section-2-1":"For each event, you have to choose:",
     "tutorial-section-2-2":"3 cards for Protection",
     "tutorial-section-2-3":"3 cards for Reduction",
-    "tutorial-section-2-4":"Protection cards help to protect yourself against the negative health effects of air pollution, while Reduction cards help to decrease the emission of pollutants in the air."
-    "tutorial-section-3-title":"Accepting cards"
+    "tutorial-section-2-4":"Protection cards help to protect yourself against the negative health effects of air pollution, while Reduction cards help to decrease the emission of pollutants in the air.",
+    
+    "tutorial-section-3-title":"Accepting cards",
     "tutorial-section-3":"<p>Cards will appear one at a time. Swipe right or click on the accept icon to keep the card, or swipe left or click the reject icon to discard it.</p><p>Consider the event carefully when making your choices.</p><p>Remember, not all cards will help! Some may have a negative impact and reduce your score, so you should regard this.</p>",
-    "tutorial-section-4-title":"Test your knowledge
-    "tutorial-section-4":"<p>The goal is to make the best selections across all rounds to achieve the highest score. </p><p>If you are unsure, discard the card to send it to the back of the deck, and it will appear again when you run out of cards (there are 9 cards in each episode).</p><p>If you make a mistake (e.g. keep a negative or select more than 3 for each category), you will have to start over!</p><p>Good luck!</p>",
+    
+    "tutorial-section-4-title":"Test your knowledge",
+    "tutorial-section-4":"<p>The goal is to make the best selections across all rounds to achieve the highest score. </p><p>If you are unsure, discard the card to send it to the back of the deck, and it will appear again when you run out of cards (there are 9 cards in each episode).</p><p>If you make a mistake (e.g. select a card with negative effect, or more than 3 card for each category), you will have to start over!</p><p>Good luck!</p>",
+    
     "tutorial-button":"Start playing",
     "tutorial-skip":"Skip tutorial",
 
@@ -36,25 +36,54 @@
 
     "close-menu": "Close",
 
-    "card-1-text":"Avoid walking or cycling in busy streets and avenues",
+    "event-name-1":"Rush Hour",
+    
+    "card-1-text":"Avoid walking or cycling in busy roads and avenues",
+    "card-1-text-expl":"Less busy roads have better air quality during rush hour."
+    
     "card-2-text":"When walking, keep at least a 2-meter distance from the road",
-    "card-3-text":"Stay informed about the AQI in your area to know when to take measures to protect yourself",
+    "card-2-text-expl":"Keeping further away from the road helps reduce the pollutants inhaled." 
+    
+    "card-3-text":"Stay informed about the AQI in your area",
+    "card-3-text-expl":"When the air quality is poor, you can take measures to protect yourself."
+    
     "card-4-text":"Prefer exercising outdoors and doing outdoor activities during this time",
+    "card-4-text-expl":"Being outdoors during rush hour exposes you to more pollutants, so prefer other times of day.",
+    
     "card-5-text":"Cycle closely behind cars in busy roads",
+    "card-5-text-expl":"Proximity to cars exposes you to higher concentrations of pollutants and should be avoided.",
+    
     "card-6-text":"Drive through less busy routes to avoid increasing pollutant concentration in certain areas",
+    "card-6-text-expl":"This can help disperse the pollutants rather than concentrate them in specific roads.",
+    
     "card-7-text":"Use public transport (e.g. bus), as much as possible",
-    "card-8-text":"Avoid idling, i.e. leaving the car running when you are not using it",
+    "card-7-text-expl":"This can help reduce the amount of vehicles in the roads and lower pollution.",
+    
+    "card-8-text":"Avoid leaving the car running when you are not using it",
+    "card-8-text-expl":"Turning off your engine when not needed can help limit the pollutants emitted.",
+    
     "card-9-text":"Always travel by car, even for short distances",
+    "card-9-text-expl":"Using the car instead of public transport, walking or cycling can contribute to air pollution.",
+
+
+    
+    "event-name-2":"Natural Episode",
+    
     "card-10-text":"Prefer indoor activities, and limit the time spent outdoors",
     "card-11-text":"Wear a mask on high-pollution days",
     "card-12-text":"Learn more how to protect yourself and others, especially during air pollution events",
     "card-13-text":"Keep windows open",
     "card-14-text":"Do not pay attention to any air quality alerts and continue with activities as usual",
-    "card-15-text":"Have a bbq outdoors with your family",
+    "card-15-text":"Spend the day outdoors with your family",
     "card-16-text":"Avoid using the car for short routes or when public transport is available",
     "card-17-text":"Avoid burning wood or trash at home to not contribute to pollution",
     "card-18-text":"Choose local products to limit pollution from transportation",
     "card-19-text":"Always use heating or air conditioning, even when it’s not needed",
+
+
+    
+    "event-name-3":"No Pollution Day",
+    
     "card-20-text":"Talk about air pollution with your friends and family to raise awareness on how to protect yourselves",
     "card-21-text":"Get involved in actions against air pollution for healthier air in your neighborhood / community",
     "card-22-text":"Have fun while learning how to protect your health with the GreenAIR app!",
@@ -64,6 +93,8 @@
     "card-26-text":"Buy fast fashion that is produced and shipped from far away places",
     "card-27-text":"Do not share the GreenAIR app with your friends and family, so that they will not learn about air pollution!",
 
+
+    
     "card-4-incorrect-explaination": "During rush hour it is best to exercise indoors to protect your health!",
     "card-5-incorrect-explaination": "If you cycle, try to avoid busy roads for your safety and use cycling lanes!",
     "card-9-incorrect-explaination": "Try to not use the car in rush hour!",
@@ -73,9 +104,4 @@
     "card-19-incorrect-explaination": "PLACEHOLDER",
     "card-26-incorrect-explaination": "PLACEHOLDER",
     "card-27-incorrect-explaination": "PLACEHOLDER",
-
-    "tutorial-section-1-title": "Starting the game",
-    "tutorial-section-2-title": "Choosing cards",
-    "tutorial-section-3-title": "Accepting cards",
-    "tutorial-section-4-title": "Test your knowledge"
 }
