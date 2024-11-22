@@ -5,8 +5,9 @@
 
     "tutorial-title":"Tutorial",
     "tutorial-section-1-title":"Starting the game", 
-     "tutorial-section-1": "This final quiz will put your knowledge to the test! You’ll be given an air pollution episode or event (e.g. rush hour).",
-    "tutorial-section-2-1":"2. Choosing cards, For each event, choose:",
+     "tutorial-section-1":"<p>This final quiz will put your knowledge to the test!</p><p>You’ll be given an air pollution episode or event (e.g. rush hour).</p>",
+    "tutorial-section-2-title":"Choosing cards",
+     "tutorial-section-2-1":"For each event, choose:",
     "tutorial-section-2-2":"3 protection cards
     "tutorial-section-2-3":"3 reduction cards"
     "tutorial-section-2-4":"Protection cards will help guard against negative effects of air pollution, while Reduction cards help decrease the emission of pollutants in the air."
