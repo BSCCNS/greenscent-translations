@@ -4,10 +4,18 @@
     "event-name-3":"No Pollution Day",
 
     "tutorial-title":"Tutorial",
-    "tutorial-section-1":"1. Congratulations, you have completed all the lessons! Now, let’s put your knowledge to the test!",
-    "tutorial-section-2":"2. In this final test, you will see an air pollution episode or event, such as rush hour. Choose 3 actions to protect yourself and 3 actions to reduce air pollution to complete each challenge. Click on the “green O” button to select and the “red X” button to discard.",
-    "tutorial-section-3":"3. Note that some actions can have a negative impact, in which case you should discard them. If you make a mistake (e.g. discard a positive action or keep a negative), you will have to start over!",
-    "tutorial-section-4":"4. Can you complete all the challenges and become an air quality champion?",
+    "tutorial-section-1-title":"Starting the game", 
+     "tutorial-section-1": "This final quiz will put your knowledge to the test! You’ll be given an air pollution episode or event (e.g. rush hour).",
+    "tutorial-section-2-1":"2. Choosing cards, For each event, choose:",
+    "tutorial-section-2-2":"3 protection cards
+    "tutorial-section-2-3":"3 reduction cards"
+    "tutorial-section-2-4":"Protection cards will help guard against negative effects of air pollution, while Reduction cards help decrease the emission of pollutants in the air."
+    "tutorial-section-3":"3. Accepting cards, Cards will appear one at a time. Swipe right or click the accept icon to keep the card, or swipe left or click the reject icon to discard it. Consider the event carefully when making your choices.
+Remember, not all cards will help! Some may have a negative impact and reduce your score, so you should regard this.",
+    "tutorial-section-4":"Test your knowledge, The goal is to make the best selections across all rounds to achieve the highest score.
+If you make a mistake (e.g. discard a positive action or keep a negative), you will have to start over!
+Points are awarded based on how well your chosen cards align with the needs of the event. Strategic decisions will maximise your score!
+Good luck!",
     "tutorial-section-5":"Are you ready to start?",
     "tutorial-button":"Start playing",
     "tutorial-skip":"Skip tutorial",
