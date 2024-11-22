@@ -56,5 +56,20 @@
     "card-24-text":"Take less flights, and use the train where possible",
     "card-25-text":"Choose a car that is fuel-efficient and less polluting",
     "card-26-text":"Buy fast fashion that is produced and shipped from far away places",
-    "card-27-text":"Do not share the GreenAIR app with your friends and family, so that they will not learn about air pollution!"
+    "card-27-text":"Do not share the GreenAIR app with your friends and family, so that they will not learn about air pollution!",
+
+    "card-4-incorrect-explaination": "During rush hour it is best to exercise indoors to protect your health!",
+    "card-5-incorrect-explaination": "If you cycle, try to avoid busy roads for your safety and use cycling lanes!",
+    "card-9-incorrect-explaination": "Try to not use the car in rush hour!",
+    "card-13-incorrect-explaination": "PLACEHOLDER",
+    "card-14-incorrect-explaination": "PLACEHOLDER",
+    "card-15-incorrect-explaination": "PLACEHOLDER",
+    "card-19-incorrect-explaination": "PLACEHOLDER",
+    "card-26-incorrect-explaination": "PLACEHOLDER",
+    "card-27-incorrect-explaination": "PLACEHOLDER",
+
+    "tutorial-section-1-title": "Starting the game",
+    "tutorial-section-2-title": "Choosing cards",
+    "tutorial-section-3-title": "Accepting cards",
+    "tutorial-section-4-title": "Test your knowledge"
 }
