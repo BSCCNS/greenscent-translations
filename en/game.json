@@ -15,6 +15,9 @@
     "tutorial-section-4-title":"Test your knowledge",
     "tutorial-section-4":"<p>The goal is to make the best selections across all rounds to achieve the highest score. </p><p>If you are unsure, discard the card to send it to the back of the deck, and it will appear again when you run out of cards (there are 9 cards in each episode).</p><p>If you make a mistake (e.g. select a card with negative effect, or more than 3 card for each category), you will have to start over!</p><p>Good luck!</p>",
     
+    "tutorial-section-5-title": "You're Ready!",
+    "tutorial-section-5": "<p>Click on the button below to start playing and prove you are an air quality genius!</p>",
+    
     "tutorial-button":"Start playing",
     "tutorial-skip":"Skip tutorial",
 
