@@ -40,33 +40,34 @@
     "close-menu": "Close",
 
     "event-name-1":"Rush Hour",
+    "event-description-1":"Rush hour is the busiest time on the roads, usually in the morning and evening when people travel to and from work or school."
     
     "card-1-text":"Avoid walking or cycling in busy roads and avenues",
-    "card-1-text-expl":"Less busy roads have better air quality during rush hour.",
+    "card-1-text-expl":"Less busy roads have better air quality",
     
     "card-2-text":"When walking, keep at least a 2-meter distance from the road",
-    "card-2-text-expl":"Keeping further away from the road helps reduce the pollutants inhaled.",
+    "card-2-text-expl":"This helps inhale less pollutants",
     
     "card-3-text":"Stay informed about the AQI in your area",
-    "card-3-text-expl":"When the air quality is poor, you can take measures to protect yourself.",
+    "card-3-text-expl":"Take measures to protect yourself on polluted days",
     
     "card-4-text":"Prefer exercising outdoors and doing outdoor activities during this time",
-    "card-4-text-expl":"Being outdoors during rush hour exposes you to more pollutants, so prefer other times of day.",
+    "card-4-text-expl":"This exposes you to higher pollutant concentrations",
     
     "card-5-text":"Cycle closely behind cars in busy roads",
-    "card-5-text-expl":"Proximity to cars exposes you to higher concentrations of pollutants and should be avoided.",
+    "card-5-text-expl":"Proximity to cars exposes you to more pollutants",
     
-    "card-6-text":"Drive through less busy routes to avoid increasing pollutant concentration in certain areas",
-    "card-6-text-expl":"This can help disperse the pollutants rather than concentrate them in specific roads.",
+    "card-6-text":"Drive through less busy routes",
+    "card-6-text-expl":"This disperses pollutants rather than concentrating them in specific roads",
     
     "card-7-text":"Use public transport (e.g. bus), as much as possible",
-    "card-7-text-expl":"This can help reduce the amount of vehicles in the roads and lower pollution.",
+    "card-7-text-expl":"Less vehicles on the road means less pollution",
     
     "card-8-text":"Avoid leaving the car running when you are not using it (idling)",
-    "card-8-text-expl":"Turning off your engine when not needed can help limit the pollutants emitted.",
+    "card-8-text-expl":"This helps reduce the pollutants emitted",
     
     "card-9-text":"Always travel by car, even for short distances",
-    "card-9-text-expl":"Using the car instead of public transport, walking or cycling can contribute to air pollution.",
+    "card-9-text-expl":"This contributes to air pollution",
 
 
     
