@@ -72,40 +72,63 @@
 
     
     "event-name-2":"Natural Episode",
+    "event-description-2":"Natural episodes like desert dust storms or volcanic eruptions release particles into the air and cause a temporary but significant increase in air pollution, specifically particulate matter (PM) levels."
     
     "card-10-text":"Prefer indoor activities, and limit the time spent outdoors",
+    "card-10-text-expl":"This reduces exposure to harmful particles",
+    
     "card-11-text":"Wear a mask on high-pollution days",
-    "card-12-text":"Learn more how to protect yourself and others, especially during air pollution events",
+    "card-11-text-expl":"It helps reduce the harmful particles you breathe in",
+    
+    "card-12-text":"Learn how to protect yourself and others during pollution episodes",
+    "card-12-text-expl":"Take appropriate measures",
+    
     "card-13-text":"Keep windows open",
-    "card-14-text":"Do not pay attention to any air quality alerts and continue with activities as usual",
-    "card-15-text":"Spend the day outdoors with your family",
-    "card-16-text":"Avoid using the car for short routes or when public transport is available",
-    "card-17-text":"Avoid burning wood or trash at home to not contribute to pollution",
-    "card-18-text":"Choose local products to limit pollution from transportation",
+    "card-13-text-expl":"This lets in pollutants, affecting indoor air quality",
+    
+    "card-14-text":"Continue your usual activities, not paying attention to air quality alerts",
+    "card-14-text-expl":"High pollutant levels are harmful for health",
+    
+    "card-15-text":"Have a barbeque outdoors",
+    "card-15-text-expl":"This adds to the already high pollutant levels",
+    
+    "card-16-text":"Avoid driving for short distances or when public transport is available",
+    "card-16-text-expl":"This reduces emission of more pollutants",
+    
+    "card-17-text":"Avoid burning wood or trash at home",
+    "card-17-text-expl":"To not add more pollutants in the air",
+    
+    "card-18-text":"Reduce your energy use",
+    "card-18-text-expl":"Don't contribute to further pollution",
+    
+    
+    "event-name-3":"Low Pollution Day",
+    "event-description-3":"Even on days with good air quality, we should take measures to reduce the emission of air pollutants and ensure cleaner air to protect our health.",
+
     "card-19-text":"Always use heating or air conditioning, even when it’s not needed",
-
-
+    "card-19-text-expl":"This releases more air pollutants",
     
-    "event-name-3":"No Pollution Day",
+    "card-20-text":"Talk about the health impacts of air pollution with your friends and family",
+    "card-20-expl":"Raise awareness on how to protect your health",
     
-    "card-20-text":"Talk about air pollution with your friends and family to raise awareness on how to protect yourselves",
-    "card-21-text":"Get involved in actions against air pollution for healthier air in your neighborhood / community",
-    "card-22-text":"Have fun while learning how to protect your health with the GreenAIR app!",
-    "card-23-text":"Save electricity at home, e.g. turn off the lights, or use the stairs instead of lift, and choose renewables",
+    "card-21-text":"Get involved in actions for cleaner air in your community",
+    "card-21-expl":"Healthier air for all",
+    
+    "card-22-text":"Have fun and learn how to protect your health with the GreenAIR app!",
+    "card-22-expl":"Learn what measures to take and when",
+    
+    "card-23-text":"Save electricity at home, e.g. turn off the lights",
+    "card-23-expl":"This reduces the pollutants emitted",
+    
     "card-24-text":"Take less flights, and use the train where possible",
-    "card-25-text":"Choose a car that is fuel-efficient and less polluting",
-    "card-26-text":"Buy fast fashion that is produced and shipped from far away places",
-    "card-27-text":"Do not share the GreenAIR app with your friends and family, so that they will not learn about air pollution!",
+    "card-24-expl":"Train travel pollutes less",
 
-
+    "card-25-text":"Choose renewable energy and less polluting cars",
+    "card-25-expl":"Less pollutants are emitted",
     
-    "card-4-incorrect-explaination": "During rush hour it is best to exercise indoors to protect your health!",
-    "card-5-incorrect-explaination": "If you cycle, try to avoid busy roads for your safety and use cycling lanes!",
-    "card-9-incorrect-explaination": "Try to not use the car in rush hour!",
-    "card-13-incorrect-explaination": "PLACEHOLDER",
-    "card-14-incorrect-explaination": "PLACEHOLDER",
-    "card-15-incorrect-explaination": "PLACEHOLDER",
-    "card-19-incorrect-explaination": "PLACEHOLDER",
-    "card-26-incorrect-explaination": "PLACEHOLDER",
-    "card-27-incorrect-explaination": "PLACEHOLDER"
+    "card-26-text":"Buy products that are produced and shipped from far away places",
+    "card-26-expl":"More pollutants from transportation; prefer local products",
+    
+    "card-27-text":"Don't share the GreenAIR app with your friends and family!",
+    "card-27-expl":"They will not learn more about air pollution"
 }
