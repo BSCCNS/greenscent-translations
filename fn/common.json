@@ -1,1 +1,423 @@
+{
+  "discover-title": "Tutustu",
+  "challenge-title": "Tehtävä",
+  "about-title": "Tietoa meistä",
+  "resources-title": "Syventävää tietoa",
+  "accessibility-title": "Helppokäyttöisyys",
+  "start-lesson-button": "ALOITA OPPITUNTI",
+  "start-challenge-button": "ALOITA",
+  "discover-finished-button": "JATKA",
+  "boolean-question-instructions": "Valitse oikea vastaus ja napsauta LÄHETÄ.",
+
+  "example": "esimerkki",
+
+  "resume-button-label": "Jatka",
+  "restart-button-label": "Aloita uudelleen",
+  "quit-button-label": "Lopeta",
+  "resources-button-label": "Resurssit",
+
+  "lesson1-title": "1. Ilma, jota hengitämme",
+  "lesson2-title": "2. Ilmansaasteet",
+  "lesson3-title": "3. Mitä emme näe",
+  "lesson4-title": "4. Tottumusten merkitys",
+  "lesson5-title": "5. Ilmansaasteilla ei ole rajoja",
+  "lesson6-title": "6. Ilmanlaatuindeksi",
+  "lesson7-title": "7. Ilmanlaadun värikoodit",
+  "lesson8-title": "8. Ilmanlaadun vertailu",
+  "lesson9-title": "9. Vaarat terveydellemme",
+  "lesson10-title": "10. Toimenpiteitä, joita voimme tehdä",
+  "lesson11-title": "11. Puhdasta ilmaa kaikille",
+
+  "lesson1-intro-text": "Ilma koostuu pääasiassa hapesta ja typestä, sekä pienemmistä määristä muita kaasuja, kuten typen oksideista, orgaanisista yhdisteistä, otsonista, rikkidioksidista ja kasvihuonekaasuista. Ilmassa leijuu myös pieninä hiukkasina hiukkasmaisia aineita.",
+  "lesson2-intro-text": "Ilman koostumus vaihtelee vuorokaudenajan, sään ja vuodenajan mukaan, sekä sen mukaan, kuinka korkealla ollaan. Kaikkia hiukkasia, jotka muuttavat ilman luonnollisia ominaisuuksia, kutsutaan saasteiksi. Ilmansaasteet vaikuttavat ihmisiin, eläimiin ja ympäristöön. Autot, kodit, tehtaat, maatilat ja muut ihmisten aikaansaamat tai luonnolliset lähteet voivat vapauttaa saasteita ilmaan ja heikentää ilmanlaatua.",
+  "lesson3-intro-text": "Joskus voimme nähdä ilmaa saastuttavia hiukkasia, kuten mustaa pakokaasua. Useimmat ilmansaasteen hiukkaset ovat kuitenkin niin pieniä, että niitä ei voi nähdä paljaalla silmällä vaan ainoastaan mikroskoopilla. Jopa kirkkaana päivänä ilmanlaatu voi olla huono ja vaikuttaa terveyteemme ja ympäristöömme.",
+  "lesson4-intro-text": " Arjen toimintamme ja tapamme vaikuttavat elinympäristöömme. Esimerkiksi tehtaat, ajoneuvot ja tupakansavu vapauttavat ilmaan hiukkasia, jotka ovat hyvin haitallisia terveydellemme. Näitä hiukkasia kutsutaan ihmisen aiheuttamiksi (antropogeenisiksi) saasteiksi. Ihmisen toiminnan lisäksi ilmansaasteita voivat tuottaa myös luonnon lähteet, kuten pölymyrskyt ja luonnonkatastrofit.",
+  "lesson5-intro-text": "Ilma ympärillämme ei ole koskaan paikallaan. Jopa päivinä, jolloin ei tuule, ilma liikkuu aina paikasta toiseen. Myös ilmansaasteet liikkuvat jatkuvasti. Tuuli, sade ja ilmakehän ilmavirtaukset kuljettavat ilmansaasteita ympäri maailmaa. Näin ollen ilmansaasteet voivat vaikuttaa ilmanlaatuun kaukaisilla seuduilla riippumatta siitä, missä ne ovat syntyneet.",
+  "lesson6-intro-text": "Maassa olevat laitteet ja maata kiertävät satelliitit analysoivat säännöllisesti hengittämäämme ilmaa. Ne seuraavat myös viiden pääasiallisen ilmansaasteen esiintymistä ja määrää: pienhiukkasia, hiilimonoksidia, otsonia, typpidioksidia ja rikkidioksidia. Ilmanlaatuindeksi (AQI) ilmaisee, kuinka puhdasta tai saastunutta ilma on.",
+  "lesson7-intro-text": "Ilmanlaatukartat kertovat, kuinka hyvä ilmanlaatu on kussakin kaupungissa tai alueella. Tällä oppitunnilla tutkimme karttaa, joka esittää keskimääräisiä ilmanlaatuindeksin arvoja Euroopassa syksyllä 2016.",
+  "lesson8-intro-text": "Ilmanlaatu voi vaihdella eri kaduilla samassa kaupungissa ja muuttua nopeasti vuorokaudenajan mukaan. Vaihtelu riippuu liikennemääristä ja muista ilmansaasteiden lähteistä (esim. teollisuusalueet). Tällä oppitunnilla tutkimme ilmanlaatuindeksiä (AQI) kahteen eri kellonaikaan samana päivänä Barcelonan kaupungissa, Espanjassa. Kartalta näet, kuinka ilmanlaatu muuttuu vuorokaudenajan ja kaupunginosan mukaan.",
+  "lesson9-intro-text": "Ilmansaasteet aiheuttavat merkittävästi terveysongelmia ja kuolemia maailmanlaajuisesti. Jotkin ilmansaasteet ovat luonnollisia, kuten aavikoiden pöly tai tulivuorialueiden tuhka. Ihmisten toiminta kuitenkin lisää merkittävästi ilmansaasteita ",
+  "lesson10-intro-text":"Toimintamme ja tottumuksemme tuottavat merkittävän osan ilmansaasteista ja vain harvat saasteet ovat peräisin luonnosta. Vaikka emme voi hallita hiekkamyrskyjä tai tulivuorenpurkauksia, tapojemme muuttaminen voi vaikuttaa paljon! Asutpa pienessä kylässä tai suuressa kaupungissa, on olemassa muutamia yksinkertaisia toimenpiteitä, joilla voit auttaa vähentämään saasteita.",
+  "lesson11-intro-text":"Vihreät valintasi, kuten kävely, pyöräily ja valojen sammuttaminen, auttavat vähentämään ilmansaasteita. Jotta voisimme parantaa hengittämämme ilman laatua maailmanlaajuisesti, meidän kaikkien on yhdessä pyrittävä enemmän vihreisiin valintoihin. Paikalliset toimet ilmanlaadun parantamiseksi suojelevat paitsi tietyn kaupungin tai maan kansalaisten terveyttä, myös ehkäisevät ilmansaasteita ja niiden haitallisia vaikutuksia kaukaisilla seuduilla.",
+  
+  "lesson1-intro-alt": "Iloinen lintu pilvien ympäröimänä",
+   "lesson2-intro-alt": "Suurennuslasi, jossa näkyy saastehiukkasia",
+   "lesson3-intro-alt": "Pilvi",
+   "lesson4-intro-alt": "Auto ajaa kaupungissa",
+   "lesson5-intro-alt": "Lintu piirtää ympyrää ympärilleen kynällä",
+   "lesson6-intro-alt": "Kuvaaja AQI:n viidellä eri värillä",
+   "lesson7-intro-alt": "Lintu AQI:n väreissä tavallisten väriensä sijasta",
+   "lesson8-intro-alt": "Vaaka, jonka molemmilla puolilla on hiukkasia edustavia ympyröitä",
+   "lesson9-intro-alt": "Keuhkot, joissa ympärillä hiukkasia ja kuvioita edustavia ympyröitä",
+   "lesson10-intro-alt": "Polkupyörällä ajava tyttö kaupungissa",
+   "lesson11-intro-alt": "Julkinen linja-auto ajaa kaupungissa",
+  
+  "discovercarousel-instructions": "Perehdy aiheeseen, pyyhkäise tai klikkaa nuolia saadaksesi lisää tietoa",
+   "discoverdropdowns-instructions": "Perehdy aiheeseen, pyyhkäise tai klikkaa + -ikoneja saadaksesi lisää tietoa hengittämästämme ilmasta",
+   "discovermap-instructions": "Perehdy aiheeseen, klikkaa + -ikonia saadaksesi lisää tietoa ilmansaasteiden lähteistä",
+  
+  "lesson1-discovercarousel-slide1": "Pieniä ilmassa leijuvia hiukkasia kutsutaan leijumaksi (pölyksi tai aerosoleiksi). Niitä vapautuu ihmisen toiminnasta (esim. autojen käytöstä) tai luonnollisista lähteistä (esim. aavikot). Nämä hiukkaset ovat mm. aavikkopölyä, siitepölyä, nestepisaroita, nokea ja savua (esim. savukkeista tai metsäpaloista).",
+   "lesson1-discovercarousel-slide2": "Nämä hiukkaset ovat erittäin pieniä eivätkä näy paljaalla silmällä. Ne jaotellaan yleensä kahteen kokoluokkaan, joita kutsutaan PM2.5:ksi (pienhiukkaset) ja PM10:ksi (hengitettävät hiukkaset), mitkä tarkoittavat halkaisijaltaan alle 2,5 tai alle 10 mikrometrin kokoisia hiukkasia.",
+   "lesson1-discovercarousel-slide3": "Kasvihuonekaasut, kuten hiilidioksidi ja metaani, esiintyvät luonnostaan ilmakehässä. Luonnollisessa prosessissa, jota kutsutaan kasvihuoneilmiöksi, ne sitovat maasta säteilevää lämpöä, pitäen planeettamme lämpimämpänä ja mukavampana paikkana elää.",
+  "lesson1-discovercarousel-slide4": "Oikea määrä kasvihuonekaasuja ilmassa on välttämätöntä selviytymisellemme. Kuitenkin ihmisen toiminta, kuten fossiilisten polttoaineiden käyttö, lisää huomattavasti kasvihuonekaasujen määrää aiheuttaen ilmaston lämpenemisen. Fossiilisia polttoaineita ovat esimerkiksi öljy ja kivihiili.",
+
+  "lesson1-discovercarousel-slide1-img-alt": "Talo, puita ja ympärillä leijuvia hiukkasia.",
+  "lesson1-discovercarousel-slide2-img-alt": "Suurennuslasi katsoo ilmassa olevia hiukkasia.",
+  "lesson1-discovercarousel-slide3-img-alt": "Aurinko säteilee lämpöä maahan.",
+  "lesson1-discovercarousel-slide4-img-alt": "Surullinen ja hikoileva planeetta Maa lämpömittarin kanssa.",
+
+  "lesson2-discovercarousel-slide1": "Saastunut ilma on haitaksi terveydellemme, koska se aiheuttaa hengityselinsairauksia (esim. krooninen keuhkoputkentulehdus, astma) ja muita vakavia sairauksia (esim. hengitysvaikeuksia, sydänvaivoja, sydänkohtauksia).",
+  "lesson2-discovercarousel-slide2": "Kun ilma on saastunutta, myös eläinten käyttäytyminen voi muuttua. Esimerkiksi linnut laulavat vähemmän, mehiläiset hylkäävät pesänsä, muuttoreitit muuttuvat ja eläinten lisääntyminen heikkenee.",
+  "lesson2-discovercarousel-slide3": "Myös ympäristö kärsii. Ilmansaasteet voivat lisätä maan ja veden happamuutta (happamoituminen) tai aiheuttaa ylimääräistä ravinnekuormitusta vedessä, mikä johtaa levien kukintaan ja vähentää kasvillisuuden kasvua. Ilmansaasteet voivat myös muuttaa maisemien värejä ja selkeyttä.",
+  "lesson2-discovercarousel-slide4": "On tärkeää erottaa toisistaan ihmiselle välittömästi haitalliset ilmansaasteet ja kasvihuonekaasut, jotka sitovat auringon lämpöä ja lisäävät planeetan lämpötilaa, aiheuttaen ilmaston lämpenemistä.",
+
+  "lesson2-discovercarousel-slide1-img-alt": "Kaksi ihmismäistä keuhkoa ilmaisee vihaa ja pettymystä.",
+  "lesson2-discovercarousel-slide2-img-alt": "Lintu tuntee olonsa epämukavaksi ilmansaasteiden vuoksi.",
+  "lesson2-discovercarousel-slide3-img-alt": "Kuoleva kasvi saastuneessa kaupungissa.",
+  "lesson2-discovercarousel-slide4-img-alt": "Epäterveelliset keuhkot ja surullinen ja hikoileva planeetta Maa lämpömittarin kanssa.",
+
+  "lesson3-discovercarousel-slide1": "Katso ympärillesi huoneessa. Ilmassa on lukuisia hiukkasia, vaikka et niitä näe! Tällä oppitunnilla voit tutkia lisätyn todellisuuden avulla, miltä ilmassa olevat hiukkaset voisivat näyttää, jos ne voisi nähdä.",
+  "lesson3-discovercarousel-slide2": "Napsauta näytön oikeassa alakulmassa olevaa AR-painiketta tarkastellaksesi huonetta ja napsauta yläreunassa olevaa 'Näytä tehtävä' -painiketta vastataksesi tehtävän kysymyksiin.",
+
+  "discovermap-lesson4-tooltip1-h": "Luonnolliset lähteet",
+  "discovermap-lesson4-tooltip1-desc": "Ilmansaasteet ovat pääasiassa ihmisen toiminnasta peräisin. Kuitenkin saasteita voi tulla jonkin verran myös metsäpaloista, tulivuorenpurkauksista sekä hiekka- ja pölymyrskyistä.",
+  "discovermap-lesson4-tooltip2-h": "Liikenne",
+  "discovermap-lesson4-tooltip2-desc": "Suurin osa ilmakehään vapautuvista ilmansaasteista tulee tieliikenteestä, erityisesti moottoriajoneuvojen, kuten autojen ja linja-autojen käytöstä. Saasteita tuottavat myös laiva- ja lentoliikenne.",
+  "discovermap-lesson4-tooltip3-h": "Maatalous",
+  "discovermap-lesson4-tooltip3-desc": "Ilmansaasteita tuottaa myös maatalous, jossa traktorit ja maatalousajoneuvot päästävät pakokaasuja ja eläinten päivittäinen hoito tuottaa ammoniakkia. Ammoniakki on kaasu, jota syntyy runsaasti lannoitetuilla pelloilta ja eläinjätteistä.",
+  "discovermap-lesson4-tooltip4-h": "Teollisuus ja energia",
+  "discovermap-lesson4-tooltip4-desc": "Toinen suuri ilmansaasteiden lähde on teollisuuslaitokset (esim. tehtaat, rakennustyömaat), jotka polttavat fossiilisia polttoaineita, kuten kivihiiltä, öljyä (petroli) ja maakaasua energian tuottamiseksi. Fossiilisten polttoaineiden polttaminen vapauttaa saasteita ilmaan.",
+  "discovermap-lesson4-tooltip5-h": "Ihmisen toimet",
+  "discovermap-lesson4-tooltip5-desc": "Saasteita syntyy myös joistakin arkisista toimistamme, kuten savukkeiden polttamisesta, pihatulien polttamisesta tai hiiligrillien käytöstä.",
+
+  "lesson5-discoverdropdown-1-title": "Kaupunkialueet ovat yleensä saastuneempia kuin maaseutu.",
+  "lesson5-discoverdropdown-2-title": "Aavikkopöly on merkittävä luonnollinen ilmansaasteiden lähde.",
+  "lesson5-discoverdropdown-3-title": "Saharan aavikon pöly voi kulkeutua Eurooppaan.",
+  "lesson5-discoverdropdown-4-title": "Ilmansaasteilla ei ole rajoja.",
+
+  "lesson5-discoverdropdown-1-desc": "Kuitenkin ilmansaasteet voivat kulkeutua myös syrjäseuduille. Tämän vuoksi terveytesi voi vaarantua, vaikka paikallinen yhteisösi ei tuottaisikaan paljon ilmansaasteita.",
+  "lesson5-discoverdropdown-2-desc": "Tuulen virtausten mukana Saharan aavikon pöly kulkeutuu Euroopan ja Atlantin yli aina Karibialle asti.",
+  "lesson5-discoverdropdown-3-desc": "Eniten Saharan pölyä kulkeutuu Euroopan yli keväisin. Kun pölypilviä muodostuu ilmaan, ne heikentävät ilmanlaatua ja voivat mahdollisesti aiheuttaa hengitys- ja sydänsairauksia.",
+  "lesson5-discoverdropdown-4-desc": "Saharan pölyn leviäminen kaukaisille seuduille maapallolla on täydellinen esimerkki siitä, että saasteilla ei ole rajoja. Tästä syystä monet maat yhdistävät voimansa ympäristön ja kansanterveyden suojelemiseksi.",
+
+  "lesson6-discovercarousel-slide1": "Ilmanlaatuindeksin asteikko on jaettu viiteen luokkaan: hyvä (vihreä), tyydyttävä (keltainen), välttävä (oranssi), huono (punainen) ja erittäin huono (violetti). Huono ilmanlaatu voi aiheuttaa terveysvaikutuksia herkille ihmisille ja erittäin huono herkille väestöryhmille. Ilmansaasteiden määrä ja laatu vaihtelevat päivän aikana.",
+  "lesson6-discovercarousel-slide2": "Kun ilmassa on hyvin pieniä määriä saasteita, ilmanlaatu on hyvä ja ilmanlaatuindeksi näyttää vihreää väriä. Sitä vastoin, kun ilmassa on paljon saasteita, ilmanlaatu on erittäin huono ja ilmanlaatuindeksi näyttää violettia väriä.",
+  "lesson6-discovercarousel-slide3": "Kun ilma on enimmäkseen puhdasta ja saasteita on erittäin vähän, hengittäminen ja ulkoilu ei ole vaarallista. Sitä vastoin, kun ilma ei ole puhdasta ja ilmassa on paljon saasteita, terveytemme on vaarassa, ja ulkoilua olisi hyvä välttää.",
+  "lesson6-discovercarousel-slide4": "Ilmanlaatuindeksi on erityisen hyödyllinen kansalaisille ja valtioille. Ilmanlaatuindeksin avulla voimme tietää ilman ja ympäristön kunnon. Kansalaiset ja valtiot voivat sitten toteuttaa toimenpiteitä suojellakseen terveyttä.",
+
+  "lesson6-discovercarousel-slide1-img-alt": "AQI:n väriviivat ja hymiöt, jotka siirtyvät iloisesta erittäin epäterveelliseen.",
+  "lesson6-discovercarousel-slide2-img-alt": "Sylinteri, jossa hiukkasten määrä kasvaa iloisesta erittäin epäterveelliseen hymiöön.",
+  "lesson6-discovercarousel-slide3-img-alt": "Suurennuslasi, jossa ympyröitä, jotka edustavat hiukkasia.",
+  "lesson6-discovercarousel-slide4-img-alt": "Hymyilevä tyttö ja koira kaupungin taustalla.",
+
+  "lesson7-discovercarousel-slide1": "Tutki karttaa ja vastaa tehtävän kysymyksiin. Näet, kuinka hyvä ilmanlaatu on ollut kullakin alueella ilmanlaatuindeksin värien perusteella. Esimerkiksi voit nähdä, että ilma oli puhtaampaa Espanjassa kuin Pohjois-Italiassa syksyllä 2016.",
+  "lesson7-discovercarousel-slide2": "Napsauta näytön oikeassa alakulmassa olevaa “AR”-painiketta nähdäksesi kartan huoneessa, jossa olet, ja napsauta yläreunassa olevaa 'Näytä tehtävä' -painiketta vastataksesi tehtävän kysymyksiin.",
+  "lesson7-discovercarousel-slide3": "Näytetyt tiedot ovat CALIOPE-mallinnusjärjestelmän todellisia tuloksia. Järjestelmän on kehittänyt Barcelonan supertietokonekeskus (lisätietoja löytyy kohdasta 'Tietoja').",
+
+  "lesson8-discovercarousel-slide1": "Kartasta näet, että ilmanlaatu on epäterveellisellä tasolla klo 10 ruuhkaisilla teillä aamuliikenteen vuoksi. Ilmansaasteet vähenevät kuitenkin kaupungin alueella päivän mittaan.",
+  "lesson8-discovercarousel-slide2": "Tutki karttaa ja vastaa tehtävän kysymyksiin. Valitse näytön alareunasta vuorokaudenaika, jota haluat tarkastella, ja napsauta 'AR'-painiketta nähdäksesi kartan huoneessa, jossa olet. Napsauta 'Näytä tehtävä' -painiketta vastataksesi kysymyksiin.",
+  "lesson8-discovercarousel-slide3": "Näytetyt tiedot ovat CALIOPE-mallinnusjärjestelmän todellisia tuloksia. Järjestelmän on kehittänyt Barcelonan supertietokonekeskus (lisätietoja löytyy kohdasta 'Tietoja').",
+
+  "lesson9-discoverdropdown-1-title": "Kun hengitämme, monet hiukkaset pääsevät kehoomme.",
+  "lesson9-discoverdropdown-2-title": " Ilmansaasteille altistumisen kestolla on merkitystä.",
+  "lesson9-discoverdropdown-3-title": "Terveysvaikutukset riippuvat altistuksen kestosta.",
+  "lesson9-discoverdropdown-4-title": "Ilmansaasteet vaikuttavat meihin eri tavoin.",
+
+  "lesson9-discoverdropdown-1-desc": "Suuremmat hiukkaset tulevat yleensä luonnollisista lähteistä ja pysähtyvät helposti nenään ja kurkkuun. Pienemmät hiukkaset voivat kuitenkin kulkeutua keuhkoihin tai jopa muihin elimiin aiheuttaen terveysongelmia.",
+  "lesson9-discoverdropdown-2-desc": "Altistuminen ilmansaasteille voi olla lyhytaikaista, esimerkiksi tiettynä päivänä, jolloin ilmansaasteita on paljon, tai pitkäaikaista (kroonista), kun asutaan vuosia paikassa, jossa ilma on saastunut. Krooninen altistuminen ilmansaasteille on terveydelle haitallisempaa.",
+  "lesson9-discoverdropdown-3-desc": "Lyhytaikaisen altistumisen aikana ilmansaasteet voivat ärsyttää silmiä, nenää, kurkkua ja ihoa sekä aiheuttaa allergioita, astmakohtauksia ja hengitystieinfektioita. Pitkällä aikavälillä ne voivat vaikuttaa keuhkojen ja sydämen toimintaan aiheuttaen aivohalvauksia, sydänsairauksia ja keuhko-ongelmia.",
+  "lesson9-discoverdropdown-4-desc": "Sekä terveet että jo ennestään sairauksista kärsivät ihmiset voivat saada ilmansaasteiden aiheuttamia terveysongelmia. Pienet lapset, raskaana olevat naiset ja vanhukset ovat yleensä herkempiä ilmansaasteille.",
+
+
+  "lesson10-discovercarousel-slide1": "Kävele, pyöräile tai käytä julkista liikennettä! Autot ja muut ajoneuvot ovat merkittävimpiä ilmansaasteiden lähteitä. Bensiini ja diesel tuottavat ilmansaasteita, kuten typpidioksidia ja hiilimonoksidia. Vältä myös katuja ja reittejä, joissa ilmanlaatu on huono.",
+  "lesson10-discovercarousel-slide2": "Lennä vähemmän! Lentokoneet lisäävät ilmansaasteita ja ilmastonmuutosta. Jos sinun täytyy matkustaa pitkä matka, voit käyttää laivaa, junaa tai bussia.",
+  "lesson10-discovercarousel-slide3": "Sähkön tuottaminen ja käyttäminen aiheuttaa ilmansaasteita, ellei sähkö ole peräisin uusiutuvista lähteistä, kuten aurinko- ja tuulivoimasta. Sammuta valot poistuessasi huoneesta, irrota sähkölaitteet pistorasiasta, kun et käytä niitä, ja vähennä energiankulutusta.",
+  "lesson10-discovercarousel-slide4": "Seuraa kaupunkisi ilman laatua! Tarkista ilmanlaatuindeksi säännöllisesti: jos ilmanlaatuindeksi on hyvä, on hieno päivä nauttia ulkoilusta. Sitä vastoin, jos ilmanlaatuindeksi on huono, terveytemme on vaarassa, joten ulkoilua on hyvä välttää.",
+
+  "lesson10-discovercarousel-slide1-img-alt": "Tyttö, koira, poika ja pojan päässä oleva lintu kaikki iloisina kaupungissa.",
+  "lesson10-discovercarousel-slide2-img-alt": "Vuori, jonka yllä lentokone, ja kielletty-ikoni.",
+  "lesson10-discovercarousel-slide3-img-alt": "Ihmismäiseksi kuvattu lintu irrottaa pistoketta seinästä.",
+  "lesson10-discovercarousel-slide4-img-alt": "Puhelin, jossa AQI-ikoni sisällä.",
+
+  "lesson11-discoverdropdown-1-title": "Enemmän puita, vähemmän autoja!",
+  "lesson11-discoverdropdown-2-title": "Enemmän uusiutuvaa energiaa!",
+  "lesson11-discoverdropdown-3-title": "Enemmän koulutusta!",
+
+  "lesson11-discoverdropdown-1-desc": "Kaupungeissa voimme vähentää ilmansaasteiden lähteitä (kuten autoja) luomalla enemmän puistoja kaupunkialueille, rajoittamalla liikennettä tietyillä alueilla ja parantamalla julkista liikennettä. Luonto tekee kaupunkialueista terveellisempiä ja elinkelpoisempia.",
+  "lesson11-discoverdropdown-2-desc": "Energian kulutuksen vähentäminen voi auttaa. Kotien, rakennusten ja tehtaiden käyttämän energian tulisi kuitenkin olla peräisin uusiutuvista lähteistä, kuten aurinko- ja tuulivoimasta. Näin voidaan vähentää hiili- ja kaasuvoimaloiden aiheuttamia ilmansaasteita.",
+  "lesson11-discoverdropdown-3-desc": "Kun ihmiset tietävät enemmän ilmansaasteista, he voivat tehdä päätöksiä terveytensä suojelemiseksi. Myös vähävaraisempien yhteisöjen tukeminen on tärkeää, jotta voidaan vähentää huonon ilmanlaadun terveyshaittoja maailmanlaajuisesti.",
+
+  "challenge1-title": "Hengittämämme ilma -tehtävä",
+
+  "lesson1-challenge-question1": "Mistä ilma koostuu?",
+
+  "lesson1-challenge-question1-choice1": "Pikkuriikkisistä hiukkasista, joita kutsutaan aerosoleiksi.",
+  "lesson1-challenge-question1-choice2": "Typestä, hapesta, pienemmistä määristä muita kaasuja  sekä hiukkasista.",
+  "lesson1-challenge-question1-choice3": "Aerosoleista, pölystä ja saasteista.",
+
+  "lesson1-challenge-question2": "Mitkä seuraavista ovat ilman epäpuhtauksia?",
+
+  "lesson1-challenge-question2-choice1": "Typpi ja happi.",
+  "lesson1-challenge-question2-choice2": "Savu, pöly ja siitepöly.",
+  "lesson1-challenge-question2-choice3": "Typpi, happi ja kasvihuonekaasut.",
+
+  "lesson1-challenge-question3": "Mikä lisää kasvihuonekaasujen määrää ilmakehässä?",
+
+  "lesson1-challenge-question3-choice1": "Ihmisten toiminta.",
+  "lesson1-challenge-question3-choice2": "Kasvihuoneilmiö.",
+  "lesson1-challenge-question3-choice3": "Aavikot.",
+
+  "challenge2-title": "Ilmansaasteet-tehtävä",
+
+  "lesson2-challenge-question1": "Miksi ilmansaasteet ovat vaarallisia terveydellemme?",
+
+  "lesson2-challenge-question1-choice1": "Koska ne aiheuttavat hengitys- ja sydänsairauksia.",
+  "lesson2-challenge-question1-choice2": "Koska ne heikentävät näkyvyyttä kaupungeissa.",
+  "lesson2-challenge-question1-choice3": "Koska ne muuttavat säätä ja vuodenaikoja.",
+
+  "lesson2-challenge-question2": "Miten ilmansaasteet vaikuttavat ympäristöön?",
+
+  "lesson2-challenge-question2-choice1": "Saasteet lisäävät kasvillisuuden kasvua.",
+  "lesson2-challenge-question2-choice2": "Saasteet lisäävät maisemien selkeyttä.",
+  "lesson2-challenge-question2-choice3": "Saasteet lisäävät maan ja veden happamuutta.",
+
+  "lesson2-challenge-question3": "Mikä seuraavista ei pidä paikkaansa?",
+
+  "lesson2-challenge-question3-choice1": "Ilmansaasteet vaikuttavat terveyteemme.",
+  "lesson2-challenge-question3-choice2": "Ilmansaasteet eivät vaikuta eläimiin, vaan ainoastaan ihmisiin.",
+  "lesson2-challenge-question3-choice3": "Ilmansaasteet heikentävät hengittämämme ilman laatua.",
+
+  "challenge3-title": "Mitä emme voi nähdä -tehtävä",
+
+  "lesson3-challenge-question1": "Kun päivä on kirkas, ilmanlaatu on aina hyvä.",
+  "lesson3-challenge-question2": "Useimmat ilman epäpuhtaudet ovat niin pienikokoisia, että emme näe niitä paljaalla silmällä.",
+  "lesson3-challenge-question3": "Ilmansaasteet ovat näkymätön uhka terveydellemme.",
+
+  "challenge4-title": "Tottumusten merkitys -tehtävä",
+
+  "lesson4-challenge-question1": "Suurin osa ilmansaasteista on kaupungeissa liikenteen ja ihmisten muun toiminnan vuoksi.",
+  "lesson4-challenge-question2": "Savukkeen savu on merkittävin ilmansaasteiden lähde.",
+  "lesson4-challenge-question3": "Tulivuoret ja metsäpalot ovat luonnollisia ilmansaasteiden lähteitä.",
+
+  "challenge5-title": "Ilmansaasteilla ei ole rajoja -tehtävä",
+
+  "lesson5-challenge-question1": "Tuuli, sade ja ilmavirrat ovat Euroopan pääasiallisia luonnollisia ilmansaasteiden lähteitä.",
+  "lesson5-challenge-question2": "Aavikkopöly on Euroopan suurin luonnollinen ilmansaasteiden lähde.",
+  "lesson5-challenge-question3": "Saharan pöly kulkeutuu Euroopan ja Atlantin yli tuulen mukana.",
+
+  "challenge6-title": "Ilmanlaatuindeksi-tehtävä",
+
+  "lesson6-challenge-question1": "Mitä ilmanlaatuindeksi (AQI) kuvaa?",
+
+  "lesson6-challenge-question1-choice1": "Kuinka puhdasta ilma on.",
+  "lesson6-challenge-question1-choice2": "Kuinka hyvä näkyvyys on.",
+  "lesson6-challenge-question1-choice3": "Minkälainen sää on.",
+
+  "lesson6-challenge-question2": "Mikä seuraavista ei pidä paikkaansa?",
+
+  "lesson6-challenge-question2-choice1": "Kun ilmanlaatu on hyvä, ilmanlaatuindeksi on alhainen.",
+  "lesson6-challenge-question2-choice2": "Kun ilmanlaatu on huono, se näkyy vihreänä kartalla.",
+  "lesson6-challenge-question2-choice3": "Kun ilmassa on saasteita, ilmanlaatuindeksi on korkea ja ilmanlaatu on huono.",
+
+  "lesson6-challenge-question3": "Mitä hyötyä ilmanlaatuindeksistä on kansalaisille?",
+
+  "lesson6-challenge-question3-choice1": "Se auttaa heitä ryhtymään toimenpiteisiin terveytensä suojelemiseksi, kun ilmanlaatu on huono.",
+  "lesson6-challenge-question3-choice2": "Se auttaa heitä suunnittelemaan lomansa.",
+  "lesson6-challenge-question3-choice3": "Se näyttää heille päivän lämpötilan.",
+
+  "challenge7-title": "Ilmanlaadun värikoodit -tehtävä",
+
+  "lesson7-challenge-question1": "Kartassa näkyy, että ilmanlaatu oli huono monissa suurkaupungeissa, kuten Milanossa, Barcelonassa ja Pariisissa, syksyllä 2016.",
+  "lesson7-challenge-question2": "Ilmanlaatu on epäterveellisellä tasolla koko Pohjois- ja Länsi-Euroopassa, kuten Isossa-Britanniassa ja Suomessa, joten ulkoilua olisi hyvä rajoittaa.",
+  "lesson7-challenge-question3": "Pohjois-Italiassa ja joillakin Itä-Euroopan alueilla, kuten Puolassa ja Serbiassa, on Euroopan heikoin ilmanlaatu.",
+
+  "challenge8-title": "Ilmanlaadun vertailu -tehtävä",
+
+  "lesson8-challenge-question1": "Ilmanlaatu on parempi iltapäivällä, kun liikenne on vähäisempää kuin aamulla.",
+  "lesson8-challenge-question2": "On parempi liikkua ulkona aamulla, sillä ilmanlaatu on parempi.",
+  "lesson8-challenge-question3": "Ruuhkaisia teitä tulisi välttää aamulla heikon ilmanlaadun vuoksi.",
+
+  "challenge9-title": "Terveysvaarat-tehtävä",
+
+  "lesson9-challenge-question1": "Ilmansaasteet voivat aiheuttaa keuhko- ja sydänsairauksia.",
+  "lesson9-challenge-question2": "Raskaana oleville naisille saastuneen ilman hengittäminen on erityisen vaarallista.",
+  "lesson9-challenge-question3": "Luonto on ainoa ilmansaasteiden lähde.",
+
+  "challenge10-title": "Toimenpiteitä, joita voimme tehdä -tehtävä ",
+
+  "lesson10-challenge-question1": "Mikä alla olevista lähteistä tuottaa eniten ilmansaasteita?",
+
+  "lesson10-challenge-question1-choice1": "Hiekkamyrskyt.",
+  "lesson10-challenge-question1-choice2": "Autot ja muut ajoneuvot.",
+  "lesson10-challenge-question1-choice3": "Tulivuorenpurkaukset.",
+
+  "lesson10-challenge-question2": "Mitä voit tehdä vähentääksesi ilmansaasteita merkittävästi?",
+
+  "lesson10-challenge-question2-choice1": "Vältä auton käyttöä: sen sijaan kävele ja pyöräile enemmän.",
+  "lesson10-challenge-question2-choice2": "Valitse aina lentokone, sillä se saastuttaa vähiten.",
+  "lesson10-challenge-question2-choice3": "Sammuta valot, kun et käytä niitä.",
+
+  "lesson10-challenge-question3": "Miten voit suojautua ilmansaasteilta?",
+
+  "lesson10-challenge-question3-choice1": "Tarkista ilmanlaatuindeksi kaupungissasi ja toimi sen mukaan.",
+  "lesson10-challenge-question3-choice2": "Pyöräile joka päivä, vaikka ilmanlaatuindeksi olisi huono.",
+  "lesson10-challenge-question3-choice3": "Käytä autoa useammin.",
+
+  "challenge11-title": "Puhdasta ilmaa kaikille -tehtävä",
+
+  "lesson11-challenge-question1": "Kaupunkien vihreiden alueiden lisääminen vähentää ilmansaasteita.",
+  "lesson11-challenge-question2": "Energian tuotanto ja käyttö eivät vaikuta ilmanlaatuun.",
+  "lesson11-challenge-question3": "Pienet paikalliset toimet voivat auttaa suojelemaan ihmisten terveyttä maailmanlaajuisesti.",
+
+
+
+  "fail-result-description": "Et ole vastannut oikein kaikkiin kysymyksiin, mutta ei hätää! Voit aina yrittää uudelleen, onnistut varmasti!",
+  "success-result-description": "Oikein! Olet ilmanlaadun mestari!",
+
+  "failed-challenge-button": "YRITÄ UUDELLEEN",
+  "successful-challenge-button": "JATKA",
+
+  "fail-result-title": "Ei aivan",
+  "success-result-title": "Hienoa työtä!",
+
+  "quiz-retry-button": "YRITÄ UUDELLEEN",
+  "quiz-submit-button": "LÄHETÄ",
+  "quiz-next-button": "JATKA",
+
+  "home-button-label": "Aloitussivu",
+  "arexploration-button-label": "AR-tarkastelu",
+  "profile-button-label": "Profiilini",
+  "accesibility-button-label": "Helppokäyttöisyys",
+  "lang-change-button-label": "Vaihda kieli",
+  "help-button-label": "Ohje",
+  "about-button-label": "Tietoja",
+
+
+  "skip-button": "OHITA",
+
+  "onboarding-slide1-title": "Opi",
+  "onboarding-slide2-title": "Tutki",
+  "onboarding-slide3-title": "Pelaa",
+  "onboarding-slide4-title": "Oletko valmis?",
+
+  "onboardingcarousel-slide1": "perusasiat ilmanlaadusta ja siitä, miten se vaikuttaa terveyteemme",
+  "onboardingcarousel-slide2": "ilmanlaatukarttoja lisätyn todellisuuden avulla",
+  "onboardingcarousel-slide3": "pidä hauskaa ja testaa tietosi!",
+  "onboardingcarousel-slide4": "Tule mukaan ja opitaan yhdessä!",
+
+  "onboarding-finished-button": "ALOITA SEIKKAILU",
+
+  "vr-legend-lesson3-title": "Mitä emme voi nähdä",
+  "vr-legend-lesson7-title": "Euroopan ilmanlaatukartta",
+  "vr-legend-lesson8-title": "Ilmanlaatukartta Barcelonasta",
+
+  "vr-legend-lesson3-text": "Joskus voimme nähdä ilmaa saastuttavia hiukkasia, kuten mustaa pakokaasua ja pölyä. Useimmat ilmansaasteen hiukkaset ovat kuitenkin niin pieniä, ettemme näe niitä paljaalla silmällä, vaan ainoastaan mikroskoopilla. Jopa kirkkaana päivänä ilmanlaatu voi olla huono. Ilmassa olevat saasteet voivat kulkeutua hengityksen mukana elimistöömme, mikä vaarantaa terveytemme. Saasteet vahingoittavat myös ympäristöämme.",
+  "vr-legend-lesson7-text": "Tämä on kartta ilmanlaatuindeksin keskimääräisistä arvoista Euroopassa syksyllä 2016. Näet, kuinka hyvä ilmanlaatu oli kullakin alueella ilmanlaatuindeksin värien perusteella. Tutki karttaa ja vastaa tehtävän kysymyksiin.",
+  "vr-legend-lesson8-text": "Tämä on kartta ilmanlaatuindeksin arvoista Barcelonassa, Espanjassa kahtena eri kellonaikana samana päivänä. Ilmanlaatuindeksin värien perusteella näet, kuinka ilmanlaatu muuttuu. Tutki karttaa ja vastaa tehtävän kysymyksiin.",
+
+  "about-section1-title": "GreenAIR",
+  "about-section2-title": "GreenSCENT",
+  "about-section3-title": "Barcelonan supertietokonekeskus",
+
+  "about-section1-text": "<p>GreenAir-sovelluksen tavoitteena on tehdä ilmanlaadun oppimisesta yhtä vaivatonta kuin linnun lento – yksinkertaista, helppoa ja mukana ripaus hauskaa lennokkuutta! </p><p> Olemme kehittäneet tämän sovelluksen astinlaudaksesi ilmanlaadun helppoon oppimiseen. Hyppää mukaan, osallistu, jaa ja sujahdetaan yhdessä puhtaan ilman maailmaan!</p><p>Tämä sovellus on suunniteltu avaamaan ilmanlaadun monimutkaisia käsitteitä kaikenikäisille, mutta keskittyy erityisesti 10–15-vuotiaisiin oppijoihin. Tavoitteenamme on tarjota käyttäjäystävällinen kokemus, joka matalalla kynnyksellä antaa yksinkertaisen mutta nautinnollisen tavan tutkia ilmanlaadun perustekijöitä. Liity mukaamme tähän oppimismatkaan, jossa tieto kohtaa innostuksen. Yhdessä teemme ilmanlaadun ymmärtämisestä helppoa!</p>",
+  "about-section2-text1": "<p>GreenScent – Smart Citizen Education for a Green Future.</p><p>Yhteistyöllä ja tutkimuksella kehitämme digitaalisia, fyysisiä ja hybridikoulutusteknologioita, joita voidaan käyttää ympäristötietoisuuden edistämiseen.</p>",
+  "about-section2-text2": "GreenScent – Smart Citizen Education for a Green Future  – pyrkii kouluttamaan ja antamaan valmiudet Euroopan asukkaille muuttaa käyttäytymistään ympäristöä kohtaan ja lisäämään ymmärtämystä planeettaamme kohtaan. Me GreenSCENT:ssä uskomme, että käyttäytymisen muutos on tärkeää Euroopan komission vihreän kehityksen ohjelman ilmastoneutraaliuden tavoitteiden saavuttamiseksi vuoteen 2050 mennessä.",
+  "about-section3-text": "<p>Barcelona Supercomputing Center (BSC-CNS) on Espanjan kansallinen supertietokonekeskus. Keskitymme korkeatehoiseen laskentaan (HPC) ja hallinnoimme MareNostrumia, yhtä Euroopan tehokkaimmista supertietokoneista, joka sijaitsee Torre Girona -kappelissa.</p><p>BSC palvelee kansainvälistä tiedeyhteisöä ja teollisuutta, joka tarvitsee HPC-resursseja. Monialainen tutkimusryhmämme ja laskentakapasiteettimme – mukaan lukien MareNostrum – tekevät BSC:stä kansainvälisesti arvostetun e-Science-huippukeskuksen.</p><p>Tämä sovellus on suunniteltu GreenSCENT-projektissa Earth Sciences -osaston ja CASE-osaston yhteistyönä.</p>",
+  "about-section3-text-2": "<p>Tämän sovelluksen ja sen visualisoinnit laati <a>BSC Data Viz Group.</a></p>",
+  "about-section4-text": "Tämä projekti on saanut rahoitusta Euroopan unionin Horizon 2020 -tutkimus- ja innovaatio-ohjelmasta rahoitussopimuksen nro 101036480 mukaisesti.",
+  "about-section5-text1": "Käyttöehdot  Tietosuojakäytäntö  Ota yhteyttä",
+  "about-section5-text2": "Barcelonan supertietokonekeskus (BSC) © 2023",
+  "about-external-button": "VIERAILE VERKKOSIVULLA",
+
+  "help-text1": "Haluamme varmistaa, että oppimismatkasi sovelluksessamme sujuu vaivatta kuin linnun lento. Tutustu UKK-osioomme",
+  "help-text2": "Tarvitsetko lisää apua? Älä huoli, olemme vain sähköpostin päässä",
+  "help-discoverdropdown-1-title": "Miten voin poistaa tallennetut tietoni? Miten henkilötietojani käsitellään?",
+  "help-discoverdropdown-2-title": "Mitkä oppitunnit sisältävät lisätyn todellisuuden ominaisuuksia?",
+  "help-discoverdropdown-3-title": "Voinko seurata edistymistäni tai saavutuksiani?",
+  "help-discoverdropdown-4-title": "Päivitetäänkö sovellusta?",
+  "help-discoverdropdown-5-title": "Minulla on teknisiä ongelmia. Mitä minun pitäisi tehdä?",
+
+  "help-discoverdropdown-1-desc": "Jos haluat poistaa sovellukseen tallennetut tiedot ja edistymisen seurannan, siirry alavalikossa olevaan ’Profiili’ -osioon ja napsauta ylhäällä olevaa ‘Poista tietoni’ -painiketta. Huomaa, että emme kerää tai tallenna mitään käyttäjätietoja laitteeltasi.",
+  "help-discoverdropdown-2-desc": "Lisätyn todellisuuden ominaisuuksia on seuraavissa oppitunneissa: Mitä emme voi nähdä; Ilmanlaadun värikoodit; ja Ilmanlaadun vertailu.",
+  "help-discoverdropdown-3-desc": " Kunkin oppitunnin läpi käytyäsi saat tehtävän, joka testaa oppimaasi tietoa. Jos vastaat kaikkiin kysymyksiin oikein, suoritat oppitunnin. Voit tarkistaa edistymisesi ja keräämäsi palkinnot profiilistasi, joka löytyy alavalikosta.",
+  "help-discoverdropdown-4-desc": "Koska sovellus on suunnattu opetuskäyttöön, kaikki sisältö on saatavilla tässä versiossa, eikä päivityksiä ole odotettavissa.",
+  "help-discoverdropdown-5-desc": "Voit ottaa meihin yhteyttä alla olevan painikkeen avulla.",
+  "help-button-contact": "Ota yhteyttä",
+
+  "resources-section1-text": "Jotta voit syventää ymmärrystäsi ilmanlaadusta, olemme koonneet lisätietoa rikastuttamaan oppimiskokemustasi.",
+
+  "resources-card-1-title": "GreenAIR-opas",
+  "resources-card-1-description": "Lue lisää GreenAir-sovelluksen toiminnasta",
+  "resources-card-1-alt": "",
+  "resources-card-1-type": "INFOGRAFIIKKA",
+
+  "resources-card-2-title": "Ilmanlaatu",
+  "resources-card-2-description": "Mistä hengittämämme ilma koostuu?",
+  "resources-card-2-alt": "",
+  "resources-card-2-type": "INFOGRAFIIKKA",
+
+  "resources-card-3-title": "Ilmanlaatuindeksi (AQI)",
+  "resources-card-3-description": "Miten ilmanlaatua mitataan?",
+  "resources-card-3-alt": "",
+  "resources-card-3-type": "INFOGRAFIIKKA",
+
+  "resources-card-4-title": "Merkittävimmät ilmansaasteet",
+  "resources-card-4-description": "Mitkä ovat yleisimmät ilmansaasteet?",
+  "resources-card-4-alt": "",
+  "resources-card-4-type": "INFOGRAFIIKKA",
+
+  "resources-card-5-title": "Ilmansaasteiden pääasialliset lähteet",
+  "resources-card-5-description": "Mistä ilmansaasteet ovat peräisin?",
+  "resources-card-5-alt": "",
+  "resources-card-5-type": "INFOGRAFIIKKA",
+
+  "resources-card-6-title": "Toimenpiteet ilmansaasteita vastaan",
+  "resources-card-6-description": "Miten voimme vähentää ilmansaasteita ja suojautua niiltä?",
+  "resources-card-6-alt": "",
+  "resources-card-6-type": "INFOGRAFIIKKA",
+
+  "resources-section-2-text-1": "Haluatko päästä syvemmälle ilmanlaadun maailmaan?",
+  "resources-section-2-text-2": "Alla olevasta linkistä löydät ennusteita, lisätiedon lähteitä ja tiedon aarreaitan odottamassa juuri sinua! Levitä siipesi ja lennähdä verkkosivullemme nyt.",
+  "resources-section-2-text-3": "Mukavia oppimishetkiä!",
+
+  "resources-external-button": "VIERAILE CALIOPE:SSA",
+
+  "accessibility-section-title": "GreenAIR",
+  "accessibility-text-1": "<p>Haluamme, että kaikki käyttäjät voivat nauttia sovelluksesta. Tämä helppokäyttöisyysopas on suunniteltu auttamaan sinua hyödyntämään sovellusta ja mukaansatempaavaa AR-ilmanlaatupeliä helppokäyttöisyysominaisuuksilla varustetulla mobiililaitteellasi. Riippumatta siitä, käytätkö ruudunlukijaa, tarvitsetko visuaalisia muutoksia tai haluatko kosketusaistimuksiin liittyviä parannuksia, olemme koonneet selkeät ohjeet varmistaaksemme, että kaikki voivat nauttia sisällöstämme sujuvasti. Tutustu alla oleviin ohjeisiin muokataksesi käyttökokemustasi ja kerro, jos voimme tehdä jotain parantaaksemme helppokäyttöisyyttä entisestään.</p>",
+  "accessibility-text-2": "<h4>1. Avaa helppokäyttöisyysasetukset:</h4><ul><li>iOS (iPhone):</li><li2>Siirry kohtaan 'Asetukset'.</li2><li2>Valitse 'Käyttöapu'.</li2><li>Android:</li><li2>Navigoi kohtaan 'Asetukset'.</li2><li2>Valitse 'Helppokäyttöisyys'.</li2></ul>",
+  "accessibility-text-3": "<h4>2. Ota käyttöön esteettömyysominaisuudet:</h4><ul><li>Ota tarvittaessa käyttöön seuraavat ominaisuudet:</li><li2>VoiceOver (ruudunlukija):</li2><li3>iOS: Asetukset > Käyttöapu > VoiceOver.</li3><li3>Android: Asetukset > Helppokäyttöisyys > TalkBack.</li3><li2>Suurennus:</li2><li3>iOS: Asetukset > Käyttöapu > Zoomaus.</li3><li3>Android: Asetukset > Helppokäyttöisyys > Näköön liittyvät parannukset > Suurennus.</li3><li2>Tekstitykset ja tekstitystuki:</li2><li3>iOS: Asetukset > Käyttöapu > Tekstitys ja kuvaileva tekstitys.</li3><li3>Android: Asetukset > Helppokäyttöisyys > Kuuloon liittyvät parannukset > Otsikkoasetus.</li3></ul>",
+  "accessibility-text-4": "<h4>3. Säädä näyttöasetuksia:</h4><ul><li>Säädä näkyvyyttä:</li><li2>Tekstin koko:</li2><li3>iOS: Asetukset > Näyttö ja kirkkaus > Tekstin koko.</li3><li3>Android: Asetukset > Helppokäyttöisyys > Näköön liittyvät parannukset >Fonttikoko ja -tyyli.</li3><li2>Värin kääntö:</li2><li3>iOS: Asetukset > Käyttöapu > Näyttö ja tekstin koko > Älykkäät käänteisvärit.</li3></ul>",
+
+  "not-ar-compatible": "Ei AR-yhteensopiva",
+  "enter-ar": "Siirry AR-tilaan",
+  "exit-ar": "Poistu AR-tilasta",
+
+  "challenge-show": "Näytä tehtävä",
+  "challenge-hide": "Piilota tehtävä",
+  "focus-surface-warn-msg": "Etsi tasainen pinta saadaksesi elementin näkyviin",
+  "agree-cookies": "HYVÄKSY",
+  "disagree-cookies": "HYLKÄÄ",
+  "cookies-message": "Käyttämällä tätä verkkosivustoa hyväksyt evästeiden käytön, mukaan lukien Google Analyticsin evästeet. Tämä parantaa selauskokemustasi ja antaa meille tietoa sivuston liikenteestä.",
+  "true-label": "OIKEIN",
+  "false-label": "VÄÄRIN",
+  "legend-part-1": "HYVÄ",
+  "legend-part-2": "TYYDYTTÄVÄ",
+  "legend-part-3": "VÄLTTÄVÄ",
+  "legend-part-4": "HUONO",
+  "legend-part-5": "ERITTÄIN HUONO",
+  "legend-part-6": "VAARALLINEN",
+
+  "en-label": "Englanti",
+  "es-label": "Espanja",
+  "ca-label": "Katalaani",
+  "gr-label": "Kreikka",
+  "fi-label": "Suomi",
+  "language-title": "Kielen valinta",
+
+  "save-changes-button": "Tallenna muutokset",
+  "legend-date-info": "Selite",
+  "language-accept": "Hyväksy",
+
+  "help-button-contact": "Ota yhteyttä"
+}
 
