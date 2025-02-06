@@ -424,5 +424,9 @@
   
   "save-changes-button": "Save Changes",
   "legend-date-info": "Legend",
-  "language-accept": "Accept"
+  "language-accept": "Accept",
+
+  "champion-title": "Congratulations, Air Quality Champion!",
+  "champion-text": "<p>You did it! You've completed all the lessons and earned the title of Air Quality Champion. Your knowledge and commitment to understanding air quality will help create a cleaner, healthier world. Keep soaring high! <br/><br/> You can review the lessons or try the challenges again whenever you want. <br/> Keep exploring and learning!</p>",
+  "champion-button": "Go Home"
 }
